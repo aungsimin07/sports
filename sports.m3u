@@ -1,8 +1,15 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="beINSPORTSXTRA.us@SD" tvg-logo="https://i.ibb.co/HT49GPmB/XTRA-2.png" group-title="Sports" quality="FHD",beIN SPORTS XTRA
 https://bein-xtra-bein.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us@SD" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="Sports" quality="FHD",beIN SPORTS XTRA en Espanol
+#EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us@SD" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="Sports" quality="FHD" priority="1",beIN SPORTS XTRA en Espanol
+https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
+#EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us@SD" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="Sports" quality="FHD" priority="2",beIN SPORTS XTRA en Espanol
 http://201.190.41.246:9060/play/a03y/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPNDeportes.us@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/960px-ESPN_Deportes.svg.png" group-title="Sports" quality="HD" priority="1",ESPN Deportes
+https://7nyaler.streamhostingcdn.top/stream/3/index.m3u8
+#EXTINF:-1 tvg-id="ESPNDeportes.us@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/960px-ESPN_Deportes.svg.png" group-title="Sports" quality="HD" priority="2",ESPN Deportes
+http://168.228.44.241:9998/play/a0dz/index.m3u8
 
 #EXTINF:-1 tvg-id="FoxDeportes.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/960px-FOX_Deportes_logo.png" group-title="Sports",Fox Deportes (720p)
 http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
@@ -58,3 +65,6 @@ http://zntx.dyndns.org:8085/hls/stv6.m3u8
 http://zntx.dyndns.org:8085/hls/stv7.m3u8
 #EXTINF:-1 tvg-id="SportTVPlus.pt@SD" tvg-logo="https://i.imgur.com/R5FZEW6.png" group-title="Sports",Sport TV+
 http://znty.dyndns.org:5010/hls/sportv+.m3u8
+
+#EXTINF:-1 tvg-id="TNTSports1.uk@HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-1-uk.png" group-title="Sports",TNT Sports 1
+https://7nyaler.streamhostingcdn.top/stream/13/index.m3u8
