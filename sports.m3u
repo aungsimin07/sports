@@ -20,33 +20,21 @@ http://stream.mcquack.net/390/index.m3u8
 
 #EXTINF:-1 tvg-id="SkySportAustria1.at@SD" tvg-logo="https://i.imgur.com/bB0HZDu.png" group-title="Sports" quality="HD" priority="1",Sky Sport Austria 1
 https://7nyaler.streamhostingcdn.top/stream/31/index.m3u8
-#EXTINF:-1 tvg-id="SkySportAustria1.at@SD" tvg-logo="https://i.imgur.com/bB0HZDu.png" group-title="Sports" quality="HD" priority="2",Sky Sport Austria 1
-https://1nyaler.streamhostingcdn.top/stream/31/index.m3u8
 
 #EXTINF:-1 tvg-id="SkySportCalcio.it@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Sky_Sport_Calcio.svg/960px-Sky_Sport_Calcio.svg.png" group-title="Sports" quality="HD" priority="1",Sky Sport Calcio
 https://7nyaler.streamhostingcdn.top/stream/21/index.m3u8
-#EXTINF:-1 tvg-id="SkySportCalcio.it@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Sky_Sport_Calcio.svg/960px-Sky_Sport_Calcio.svg.png" group-title="Sports" quality="HD" priority="2",Sky Sport Calcio
-https://1nyaler.streamhostingcdn.top/stream/21/index.m3u8
 
 #EXTINF:-1 tvg-id="SkySportsFootball.uk@HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3838.png" group-title="Sports" quality="FHD" priority="1",Sky Sports Football
 https://7nyaler.streamhostingcdn.top/stream/39/index.m3u8
-#EXTINF:-1 tvg-id="SkySportsFootball.uk@HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3838.png" group-title="Sports" quality="FHD" priority="2",Sky Sports Football
-https://1nyaler.streamhostingcdn.top/stream/39/index.m3u8
 
 #EXTINF:-1 tvg-id="SkySportsPremierLeagueROI.uk@HD" tvg-logo="https://imgur.com/FzzpF1f.png" group-title="Sports" quality="FHD" priority="1",Sky Sports Premier League
 https://7nyaler.streamhostingcdn.top/stream/38/index.m3u8
-#EXTINF:-1 tvg-id="SkySportsPremierLeagueROI.uk@HD" tvg-logo="https://imgur.com/FzzpF1f.png" group-title="Sports" quality="FHD" priority="2",Sky Sports Premier League
-https://1nyaler.streamhostingcdn.top/stream/38/index.m3u8
 
 #EXTINF:-1 tvg-id="SkySportUno.it@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Sky_Sport_Uno_-_Logo_2020.svg/960px-Sky_Sport_Uno_-_Logo_2020.svg.png" group-title="Sports" quality="FHD" priority="1",Sky Sports Uno
 https://7nyaler.streamhostingcdn.top/stream/17/index.m3u8
-#EXTINF:-1 tvg-id="SkySportUno.it@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Sky_Sport_Uno_-_Logo_2020.svg/960px-Sky_Sport_Uno_-_Logo_2020.svg.png" group-title="Sports" quality="FHD" priority="2",Sky Sports Uno
-https://1nyaler.streamhostingcdn.top/stream/17/index.m3u8
 
 #EXTINF:-1 tvg-id="SkySportsMainEvent.uk@HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1301.png" group-title="Sports" quality="FHD" priority="1",Sky Sports Main Event
 https://7nyaler.streamhostingcdn.top/stream/19/index.m3u8
-#EXTINF:-1 tvg-id="SkySportsMainEvent.uk@HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1301.png" group-title="Sports" quality="FHD" priority="2",Sky Sports Main Event
-https://1nyaler.streamhostingcdn.top/stream/19/index.m3u8
 
 #EXTINF:-1 tvg-id="Spiler1.hu@SD" tvg-logo="https://i.imgur.com/pbk8c4x.png" group-title="Sports",Spiler 1
 http://88.212.15.19/live/spiler1/index.m3u8
@@ -55,18 +43,12 @@ http://88.212.15.19/live/spiler2/index.m3u8
 
 #EXTINF:-1 tvg-id="SportTV1.pt@SD" tvg-logo="https://i.imgur.com/YWic36u.png" group-title="Sports",Sport TV1
 https://7nyaler.streamhostingcdn.top/stream/20/index.m3u8
-#EXTINF:-1 tvg-id="SportTV1.pt@SD" tvg-logo="https://i.imgur.com/YWic36u.png" group-title="Sports",Sport TV1
-https://1nyaler.streamhostingcdn.top/stream/20/index.m3u8
 
 #EXTINF:-1 tvg-id="SportTV2.pt@SD" tvg-logo="https://i.imgur.com/0jSR6yG.png" group-title="Sports",Sport TV2
 https://7nyaler.streamhostingcdn.top/stream/87/index.m3u8
-#EXTINF:-1 tvg-id="SportTV2.pt@SD" tvg-logo="https://i.imgur.com/0jSR6yG.png" group-title="Sports",Sport TV2
-https://1nyaler.streamhostingcdn.top/stream/87/index.m3u8
 
 #EXTINF:-1 tvg-id="SportTV3.pt@SD" tvg-logo="https://imgur.com/6Dw3GUx.png" group-title="Sports",Sport TV3
 https://7nyaler.streamhostingcdn.top/stream/88/index.m3u8
-#EXTINF:-1 tvg-id="SportTV3.pt@SD" tvg-logo="https://imgur.com/6Dw3GUx.png" group-title="Sports",Sport TV3
-https://1nyaler.streamhostingcdn.top/stream/88/index.m3u8
 
 #EXTINF:-1 tvg-id="SportTV5.pt@SD" tvg-logo="https://i.imgur.com/4w4vuad.png" group-title="Sports",Sport TV5
 http://znty.dyndns.org:5010/hls/stv5.m3u8
