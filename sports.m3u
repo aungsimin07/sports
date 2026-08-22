@@ -1,4 +1,9 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ArenaSport1Premium.rs@HD" tvg-logo="https://imgur.com/csv6YsL.png" group-title="Sports" quality="FHD" channel-id="2377",Arena Sport 1 Premium
+https://7nyaler.streamhostingcdn.top/stream/33/index.m3u8
+#EXTINF:-1 tvg-id="ArenaSport2Premium.rs@HD" tvg-logo="https://i.imgur.com/ztOmQ7P.png" group-title="Sports" quality="FHD" channel-id="2378",Arena Sport 2 Premium
+https://7nyaler.streamhostingcdn.top/stream/78/index.m3u8
+
 #EXTINF:-1 tvg-id="beINSPORTSXTRA.us@SD" tvg-logo="https://i.ibb.co/HT49GPmB/XTRA-2.png" group-title="Sports" quality="FHD",beIN SPORTS XTRA
 https://bein-xtra-bein.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us@SD" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="Sports" quality="FHD" priority="1",beIN SPORTS XTRA en Espanol
@@ -13,7 +18,7 @@ http://168.228.44.241:9998/play/a0dz/index.m3u8
 
 #EXTINF:-1 tvg-id="FoxDeportes.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/960px-FOX_Deportes_logo.png" group-title="Sports",Fox Deportes (720p)
 http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
-#EXTINF:-1 tvg-id="FoxSports1.us@HD" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Sports",Fox Sports 1 (720p)
+#EXTINF:-1 tvg-id="FoxSports1.us@HD" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Sports" channel-id="5037",Fox Sports 1 (720p)
 http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 #EXTINF:-1 tvg-id="FoxSports2.us@HD" tvg-logo="https://i.imgur.com/LHtxKI8.png" group-title="Sports",Fox Sports 2 (720p)
 https://tvsen7.aynascope.net/foxsports2/index.m3u8
@@ -22,38 +27,35 @@ https://tvsen7.aynascope.net/foxsports2/index.m3u8
 http://stream.mcquack.net/234/index.m3u8
 #EXTINF:-1 tvg-id="SetantaSports2Eurasia.ie@SD" tvg-logo="https://i.imgur.com/ouHunnK.png" group-title="Sports",Setanta Sports 2 Eurasia (1080p)
 http://stream.mcquack.net/235/index.m3u8
+#EXTINF:-1 tvg-id="SetantaSports1.ru@SD" tvg-logo="https://i.imgur.com/8ANUZAu.png" group-title="Sports",Setanta Sports 1
+http://cdntv.online/low/9mlxywika2/1021.m3u8
+#EXTINF:-1 tvg-id="SetantaSports2.ru@SD" tvg-logo="https://imgur.com/NOBACb6.png" group-title="Sports",Setanta Sports 2
+http://cdntv.online/low/9mlxywika2/1022.m3u8
 #EXTINF:-1 tvg-id="SetantaSportsPlusUkraine.ua@SD" tvg-logo="https://i.imgur.com/gHAP4p0.png" group-title="Sports",Setanta Sports+ Ukraine (1080p)
 http://stream.mcquack.net/390/index.m3u8
 
-#EXTINF:-1 tvg-id="SkySportAustria1.at@SD" tvg-logo="https://i.imgur.com/bB0HZDu.png" group-title="Sports" quality="HD" priority="1",Sky Sport Austria 1
+#EXTINF:-1 tvg-id="SkySportAustria1.at@SD" tvg-logo="https://i.imgur.com/bB0HZDu.png" group-title="Sports" quality="HD" priority="1" channel-id="3105",Sky Sport Austria 1
 https://7nyaler.streamhostingcdn.top/stream/31/index.m3u8
-
-#EXTINF:-1 tvg-id="SkySportCalcio.it@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Sky_Sport_Calcio.svg/960px-Sky_Sport_Calcio.svg.png" group-title="Sports" quality="HD" priority="1",Sky Sport Calcio
+#EXTINF:-1 tvg-id="SkySportCalcio.it@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Sky_Sport_Calcio.svg/960px-Sky_Sport_Calcio.svg.png" group-title="Sports" quality="HD" priority="1" channel-id="3640",Sky Sport Calcio
 https://7nyaler.streamhostingcdn.top/stream/21/index.m3u8
-
-#EXTINF:-1 tvg-id="SkySportsFootball.uk@HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3838.png" group-title="Sports" quality="FHD" priority="1",Sky Sports Football
+#EXTINF:-1 tvg-id="SkySportsFootball.uk@HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3838.png" group-title="Sports" quality="FHD" priority="1" channel-id="8648",Sky Sports Football
 https://7nyaler.streamhostingcdn.top/stream/39/index.m3u8
-
-#EXTINF:-1 tvg-id="SkySportsPremierLeagueROI.uk@HD" tvg-logo="https://imgur.com/FzzpF1f.png" group-title="Sports" quality="FHD" priority="1",Sky Sports Premier League
+#EXTINF:-1 tvg-id="SkySportsPremierLeagueROI.uk@HD" tvg-logo="https://imgur.com/FzzpF1f.png" group-title="Sports" quality="FHD" priority="1" channel-id="8647",Sky Sports Premier League
 https://7nyaler.streamhostingcdn.top/stream/38/index.m3u8
-
-#EXTINF:-1 tvg-id="SkySportUno.it@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Sky_Sport_Uno_-_Logo_2020.svg/960px-Sky_Sport_Uno_-_Logo_2020.svg.png" group-title="Sports" quality="FHD" priority="1",Sky Sports Uno
+#EXTINF:-1 tvg-id="SkySportUno.it@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Sky_Sport_Uno_-_Logo_2020.svg/960px-Sky_Sport_Uno_-_Logo_2020.svg.png" group-title="Sports" quality="FHD" priority="1" channel-id="8695",Sky Sports Uno
 https://7nyaler.streamhostingcdn.top/stream/17/index.m3u8
-
-#EXTINF:-1 tvg-id="SkySportsMainEvent.uk@HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1301.png" group-title="Sports" quality="FHD" priority="1",Sky Sports Main Event
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk@HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1301.png" group-title="Sports" quality="FHD" priority="1" channel-id="8646",Sky Sports Main Event
 https://7nyaler.streamhostingcdn.top/stream/19/index.m3u8
 
-#EXTINF:-1 tvg-id="Spiler1.hu@SD" tvg-logo="https://i.imgur.com/pbk8c4x.png" group-title="Sports",Spiler 1
+#EXTINF:-1 tvg-id="Spiler1.hu@SD" tvg-logo="https://i.imgur.com/pbk8c4x.png" group-title="Sports" channel-id="5180",Spiler 1
 http://88.212.15.19/live/spiler1/index.m3u8
-#EXTINF:-1 tvg-id="Spiler2.hu@SD" tvg-logo="https://i.imgur.com/1e0VsVH.png" group-title="Sports",Spiler 2
+#EXTINF:-1 tvg-id="Spiler2.hu@SD" tvg-logo="https://i.imgur.com/1e0VsVH.png" group-title="Sports" channel-id="5181",Spiler 2
 http://88.212.15.19/live/spiler2/index.m3u8
 
 #EXTINF:-1 tvg-id="SportTV1.pt@SD" tvg-logo="https://i.imgur.com/YWic36u.png" group-title="Sports",Sport TV1
 https://7nyaler.streamhostingcdn.top/stream/20/index.m3u8
-
 #EXTINF:-1 tvg-id="SportTV2.pt@SD" tvg-logo="https://i.imgur.com/0jSR6yG.png" group-title="Sports",Sport TV2
 https://7nyaler.streamhostingcdn.top/stream/87/index.m3u8
-
 #EXTINF:-1 tvg-id="SportTV3.pt@SD" tvg-logo="https://imgur.com/6Dw3GUx.png" group-title="Sports",Sport TV3
 https://7nyaler.streamhostingcdn.top/stream/88/index.m3u8
 
@@ -66,5 +68,5 @@ http://zntx.dyndns.org:8085/hls/stv7.m3u8
 #EXTINF:-1 tvg-id="SportTVPlus.pt@SD" tvg-logo="https://i.imgur.com/R5FZEW6.png" group-title="Sports",Sport TV+
 http://znty.dyndns.org:5010/hls/sportv+.m3u8
 
-#EXTINF:-1 tvg-id="TNTSports1.uk@HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-1-uk.png" group-title="Sports",TNT Sports 1
+#EXTINF:-1 tvg-id="TNTSports1.uk@HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-1-uk.png" group-title="Sports" channel-id="6518",TNT Sports 1
 https://7nyaler.streamhostingcdn.top/stream/13/index.m3u8
