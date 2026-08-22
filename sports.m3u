@@ -15,13 +15,38 @@ https://tvsen7.aynascope.net/foxsports2/index.m3u8
 http://stream.mcquack.net/234/index.m3u8
 #EXTINF:-1 tvg-id="SetantaSports2Eurasia.ie@SD" tvg-logo="https://i.imgur.com/ouHunnK.png" group-title="Sports",Setanta Sports 2 Eurasia (1080p)
 http://stream.mcquack.net/235/index.m3u8
-#EXTINF:-1 tvg-id="SetantaSportsPlusUkraine.ua@SD" tvg-logo="https://i.imgur.com/gHAP4p0.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Sports",Setanta Sports+ Ukraine (1080p)
+#EXTINF:-1 tvg-id="SetantaSportsPlusUkraine.ua@SD" tvg-logo="https://i.imgur.com/gHAP4p0.png" group-title="Sports",Setanta Sports+ Ukraine (1080p)
 http://stream.mcquack.net/390/index.m3u8
 
-#EXTINF:-1 tvg-id="SkySportAustria1.at@SD" tvg-logo="https://i.imgur.com/bB0HZDu.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports" quality="HD" priority="1",Sky Sport Austria 1
+#EXTINF:-1 tvg-id="SkySportAustria1.at@SD" tvg-logo="https://i.imgur.com/bB0HZDu.png" group-title="Sports" quality="HD" priority="1",Sky Sport Austria 1
 https://7nyaler.streamhostingcdn.top/stream/31/index.m3u8
-#EXTINF:-1 tvg-id="SkySportAustria1.at@SD" tvg-logo="https://i.imgur.com/bB0HZDu.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports" quality="HD" priority="2",Sky Sport Austria 1
+#EXTINF:-1 tvg-id="SkySportAustria1.at@SD" tvg-logo="https://i.imgur.com/bB0HZDu.png" group-title="Sports" quality="HD" priority="2",Sky Sport Austria 1
 https://1nyaler.streamhostingcdn.top/stream/31/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySportCalcio.it@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Sky_Sport_Calcio.svg/960px-Sky_Sport_Calcio.svg.png" group-title="Sports" quality="HD" priority="1",Sky Sport Calcio
+https://7nyaler.streamhostingcdn.top/stream/21/index.m3u8
+#EXTINF:-1 tvg-id="SkySportCalcio.it@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Sky_Sport_Calcio.svg/960px-Sky_Sport_Calcio.svg.png" group-title="Sports" quality="HD" priority="2",Sky Sport Calcio
+https://1nyaler.streamhostingcdn.top/stream/21/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySportsFootball.uk@HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3838.png" group-title="Sports" quality="FHD" priority="1",Sky Sports Football
+https://7nyaler.streamhostingcdn.top/stream/39/index.m3u8
+#EXTINF:-1 tvg-id="SkySportsFootball.uk@HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3838.png" group-title="Sports" quality="FHD" priority="2",Sky Sports Football
+https://1nyaler.streamhostingcdn.top/stream/39/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySportsPremierLeagueROI.uk@HD" tvg-logo="https://imgur.com/FzzpF1f.png" group-title="Sports" quality="FHD" priority="1",Sky Sports Premier League
+https://7nyaler.streamhostingcdn.top/stream/38/index.m3u8
+#EXTINF:-1 tvg-id="SkySportsPremierLeagueROI.uk@HD" tvg-logo="https://imgur.com/FzzpF1f.png" group-title="Sports" quality="FHD" priority="2",Sky Sports Premier League
+https://1nyaler.streamhostingcdn.top/stream/38/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySportUno.it@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Sky_Sport_Uno_-_Logo_2020.svg/960px-Sky_Sport_Uno_-_Logo_2020.svg.png" group-title="Sports" quality="FHD" priority="1",Sky Sports Uno
+https://7nyaler.streamhostingcdn.top/stream/17/index.m3u8
+#EXTINF:-1 tvg-id="SkySportUno.it@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Sky_Sport_Uno_-_Logo_2020.svg/960px-Sky_Sport_Uno_-_Logo_2020.svg.png" group-title="Sports" quality="FHD" priority="2",Sky Sports Uno
+https://1nyaler.streamhostingcdn.top/stream/17/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk@HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1301.png" group-title="Sports" quality="FHD" priority="1",Sky Sports Main Event
+https://7nyaler.streamhostingcdn.top/stream/19/index.m3u8
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk@HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1301.png" group-title="Sports" quality="FHD" priority="2",Sky Sports Main Event
+https://1nyaler.streamhostingcdn.top/stream/19/index.m3u8
 
 #EXTINF:-1 tvg-id="Spiler1.hu@SD" tvg-logo="https://i.imgur.com/pbk8c4x.png" group-title="Sports",Spiler 1
 http://88.212.15.19/live/spiler1/index.m3u8
@@ -29,9 +54,20 @@ http://88.212.15.19/live/spiler1/index.m3u8
 http://88.212.15.19/live/spiler2/index.m3u8
 
 #EXTINF:-1 tvg-id="SportTV1.pt@SD" tvg-logo="https://i.imgur.com/YWic36u.png" group-title="Sports",Sport TV1
-http://znty.dyndns.org:5010/hls/stv1.m3u8
+https://7nyaler.streamhostingcdn.top/stream/20/index.m3u8
+#EXTINF:-1 tvg-id="SportTV1.pt@SD" tvg-logo="https://i.imgur.com/YWic36u.png" group-title="Sports",Sport TV1
+https://1nyaler.streamhostingcdn.top/stream/20/index.m3u8
+
 #EXTINF:-1 tvg-id="SportTV2.pt@SD" tvg-logo="https://i.imgur.com/0jSR6yG.png" group-title="Sports",Sport TV2
-http://znty.dyndns.org:5010/hls/stv2.m3u8
+https://7nyaler.streamhostingcdn.top/stream/87/index.m3u8
+#EXTINF:-1 tvg-id="SportTV2.pt@SD" tvg-logo="https://i.imgur.com/0jSR6yG.png" group-title="Sports",Sport TV2
+https://1nyaler.streamhostingcdn.top/stream/87/index.m3u8
+
+#EXTINF:-1 tvg-id="SportTV3.pt@SD" tvg-logo="https://imgur.com/6Dw3GUx.png" group-title="Sports",Sport TV3
+https://7nyaler.streamhostingcdn.top/stream/88/index.m3u8
+#EXTINF:-1 tvg-id="SportTV3.pt@SD" tvg-logo="https://imgur.com/6Dw3GUx.png" group-title="Sports",Sport TV3
+https://1nyaler.streamhostingcdn.top/stream/88/index.m3u8
+
 #EXTINF:-1 tvg-id="SportTV5.pt@SD" tvg-logo="https://i.imgur.com/4w4vuad.png" group-title="Sports",Sport TV5
 http://znty.dyndns.org:5010/hls/stv5.m3u8
 #EXTINF:-1 tvg-id="SportTV6.pt@SD" tvg-logo="https://i.imgur.com/qmlQkyI.png" group-title="Sports",Sport TV6
