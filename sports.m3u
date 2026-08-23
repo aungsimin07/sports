@@ -33,6 +33,9 @@ http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 #EXTINF:-1 tvg-id="FoxSports2.us@HD" tvg-logo="https://i.imgur.com/LHtxKI8.png" group-title="Sports",Fox Sports 2 (720p)
 https://tvsen7.aynascope.net/foxsports2/index.m3u8
 
+#EXTINF:-1 tvg-id="LigueOnePlus.fr@HD" tvg-logo="https://i.imgur.com/o1HMzPz.png" group-title="Sports" channel-id="8921",Ligue 1+
+https://7nyaler.streamhostingcdn.top/stream/86/index.m3u8
+
 #EXTINF:-1 tvg-id="PremierSports2.ie@HD" tvg-logo="https://imgur.com/Fx1n84p.png" group-title="Sports" channel-id="21",Premier Sports 2
 https://7nyaler.streamhostingcdn.top/stream/5/index.m3u8
 
