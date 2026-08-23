@@ -11,6 +11,9 @@ https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
 #EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us@SD" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="Sports" quality="FHD" priority="2",beIN SPORTS XTRA en Espanol
 http://201.190.41.246:9060/play/a03y/index.m3u8
 
+#EXTINF:-1 tvg-id="CosmoteSport1.gr@HD" tvg-logo="https://imgur.com/fn0TM6V.png" group-title="Sports" quality="HD" priority="1",Cosmote Sport 1
+https://7nyaler.streamhostingcdn.top/stream/26/index.m3u8
+
 #EXTINF:-1 tvg-id="ESPNDeportes.us@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/960px-ESPN_Deportes.svg.png" group-title="Sports" quality="HD" priority="1",ESPN Deportes
 https://7nyaler.streamhostingcdn.top/stream/3/index.m3u8
 #EXTINF:-1 tvg-id="ESPNDeportes.us@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/960px-ESPN_Deportes.svg.png" group-title="Sports" quality="HD" priority="2",ESPN Deportes
@@ -22,6 +25,9 @@ http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
 http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 #EXTINF:-1 tvg-id="FoxSports2.us@HD" tvg-logo="https://i.imgur.com/LHtxKI8.png" group-title="Sports",Fox Sports 2 (720p)
 https://tvsen7.aynascope.net/foxsports2/index.m3u8
+
+#EXTINF:-1 tvg-id="PremierSports2.ie@HD" tvg-logo="https://imgur.com/Fx1n84p.png" group-title="Sports" channel-id="21",Premier Sports 2
+https://7nyaler.streamhostingcdn.top/stream/5/index.m3u8
 
 #EXTINF:-1 tvg-id="SetantaSports1Eurasia.ie@SD" tvg-logo="https://i.imgur.com/zlJK7ca.png" group-title="Sports",Setanta Sports 1 Eurasia (1080p)
 http://stream.mcquack.net/234/index.m3u8
@@ -52,11 +58,11 @@ http://88.212.15.19/live/spiler1/index.m3u8
 #EXTINF:-1 tvg-id="Spiler2.hu@SD" tvg-logo="https://i.imgur.com/1e0VsVH.png" group-title="Sports" channel-id="5181",Spiler 2
 http://88.212.15.19/live/spiler2/index.m3u8
 
-#EXTINF:-1 tvg-id="SportTV1.pt@SD" tvg-logo="https://i.imgur.com/YWic36u.png" group-title="Sports",Sport TV1
+#EXTINF:-1 tvg-id="SportTV1.pt@SD" tvg-logo="https://i.imgur.com/YWic36u.png" group-title="Sports" channel-id="4576",Sport TV1
 https://7nyaler.streamhostingcdn.top/stream/20/index.m3u8
-#EXTINF:-1 tvg-id="SportTV2.pt@SD" tvg-logo="https://i.imgur.com/0jSR6yG.png" group-title="Sports",Sport TV2
+#EXTINF:-1 tvg-id="SportTV2.pt@SD" tvg-logo="https://i.imgur.com/0jSR6yG.png" group-title="Sports" channel-id="4573",Sport TV2
 https://7nyaler.streamhostingcdn.top/stream/87/index.m3u8
-#EXTINF:-1 tvg-id="SportTV3.pt@SD" tvg-logo="https://imgur.com/6Dw3GUx.png" group-title="Sports",Sport TV3
+#EXTINF:-1 tvg-id="SportTV3.pt@SD" tvg-logo="https://imgur.com/6Dw3GUx.png" group-title="Sports" channel-id="4575",Sport TV3
 https://7nyaler.streamhostingcdn.top/stream/88/index.m3u8
 
 #EXTINF:-1 tvg-id="SportTV5.pt@SD" tvg-logo="https://i.imgur.com/4w4vuad.png" group-title="Sports",Sport TV5
