@@ -16,10 +16,18 @@ https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
 #EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us@SD" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="Sports" quality="FHD" priority="2",beIN SPORTS XTRA en Espanol
 http://201.190.41.246:9060/play/a03y/index.m3u8
 
+#EXTINF:-1 tvg-id="CBSSportsNetworkUSA.us@HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/77gqjl1624103918.png" quality="HD" group-title="Sports" channel-id="5990",CBS Sports Network USA
+https://7nyaler.streamhostingcdn.top/stream/58/index.m3u8
+
 #EXTINF:-1 tvg-id="CosmoteSport1.gr@HD" tvg-logo="https://imgur.com/fn0TM6V.png" group-title="Sports" quality="HD" priority="1" channel-id="5940",Cosmote Sport 1
 https://7nyaler.streamhostingcdn.top/stream/26/index.m3u8
 #EXTINF:-1 tvg-id="CosmoteSport4.gr@HD" tvg-logo="https://imgur.com/zEdJUZU.png" group-title="Sports" quality="HD" priority="1" channel-id="5943",Cosmote Sport 4
 https://7nyaler.streamhostingcdn.top/stream/72/index.m3u8
+
+#EXTINF:-1 tvg-id="DAZN2.de@SD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/risd0q1657045733.png" quality="HD" group-title="Sports" channel-id="4751",DAZN 2 DE
+https://7nyaler.streamhostingcdn.top/stream/22/index.m3u8
+#EXTINF:-1 tvg-id="DAZNLaliga.unknown@HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/4qm3dw1692437861.png" group-title="Sports" quality="HD" priority="1" channel-id="499",DAZN Laliga (Not 24/7)
+https://7nyaler.streamhostingcdn.top/stream/35/index.m3u8
 
 #EXTINF:-1 tvg-id="DigiSport1.ro@HD" tvg-logo="https://i.imgur.com/5zMxDYq.png" group-title="Sports" quality="HD" priority="1" channel-id="4229",Digi Sport 1
 https://7nyaler.streamhostingcdn.top/stream/79/index.m3u8
@@ -41,11 +49,16 @@ http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 #EXTINF:-1 tvg-id="FoxSports2.us@HD" tvg-logo="https://i.imgur.com/LHtxKI8.png" group-title="Sports",Fox Sports 2 (720p)
 https://tvsen7.aynascope.net/foxsports2/index.m3u8
 
-#EXTINF:-1 tvg-id="LigueOnePlus.fr@HD" tvg-logo="https://i.imgur.com/o1HMzPz.png" group-title="Sports" channel-id="8921",Ligue 1+
+#EXTINF:-1 tvg-id="LigueOnePlus.fr@HD" tvg-logo="https://i.imgur.com/o1HMzPz.png" group-title="Sports" quality="HD" channel-id="8921",Ligue 1+
 https://7nyaler.streamhostingcdn.top/stream/86/index.m3u8
 
-#EXTINF:-1 tvg-id="NovaSport3.cz@HD" tvg-logo="https://i.imgur.com/mgPc3X6.png" group-title="Sports" channel-id="8921",Nova Sport 3
+#EXTINF:-1 tvg-id="NovaSport3.cz@HD" tvg-logo="https://i.imgur.com/mgPc3X6.png" group-title="Sports" quality="HD" channel-id="8921",Nova Sport 3
 https://7nyaler.streamhostingcdn.top/stream/91/index.m3u8
+
+#EXTINF:-1 tvg-id="PolsatSport1.pl@HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/padw0k1655540397.png" group-title="Sports" quality="HD" channel-id="3549",Polsat Sport 1
+https://7nyaler.streamhostingcdn.top/stream/61/index.m3u8
+#EXTINF:-1 tvg-id="PolsatSport2.pl@HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/x2hsgr1771005739.png" group-title="Sports" quality="HD" channel-id="3550",Polsat Sport 2
+https://7nyaler.streamhostingcdn.top/stream/89/index.m3u8
 
 #EXTINF:-1 tvg-id="PremierSports1.ie@HD" tvg-logo="https://imgur.com/eOybZMU.png" group-title="Sports" channel-id="2874",Premier Sports 1
 https://7nyaler.streamhostingcdn.top/stream/47/index.m3u8
@@ -54,6 +67,9 @@ https://7nyaler.streamhostingcdn.top/stream/5/index.m3u8
 
 #EXTINF:-1 tvg-id="PrimaSport1.ro@HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/iymjt11656958292.png" group-title="Sports" channel-id="2904",Prima Sport 1
 https://7nyaler.streamhostingcdn.top/stream/83/index.m3u8
+
+#EXTINF:-1 tvg-id="RSILA2.ch@HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/u133xd1774012843.png" group-title="Sports" quality="HD" channel-id="3594",RSI LA 2
+https://7nyaler.streamhostingcdn.top/stream/41/index.m3u8
 
 #EXTINF:-1 tvg-id="SSport.tr@SD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/1u01u91643201009.png" group-title="Sports" quality="HD" priority="1" channel-id="5004",S Sport
 https://7nyaler.streamhostingcdn.top/stream/64/index.m3u8
