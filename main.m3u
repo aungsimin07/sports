@@ -3,6 +3,18 @@
 #EXTYTVMETA:channel-path=/8647-sky-sports-premier-league-tv-schedule
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/47871
 
-#EXTINF:-1 tvg-id="SkySportsMainEvent.uk@HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1301.png" group-title="Sports" quality="FHD" priority="1" channel-id="8646",Sky Sports Main Event
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk@HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1301.png" group-title="Sports",Sky Sports Main Event
 #EXTYTVMETA:channel-path=/8646-sky-sports-main-event-tv-schedule
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/47868
+
+#EXTINF:-1 tvg-id="SkySportsFootball.uk@HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3838.png" group-title="Sports",Sky Sports Football
+#EXTYTVMETA:channel-path=/8648-sky-sports-football-tv-schedule
+http://kstv.us:8080/jimmyrhale/JE1974aa$$/47866
+
+#EXTINF:-1 tvg-id="TNTSports1.uk@HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-1-uk.png" group-title="Sports",TNT Sports 1
+#EXTYTVMETA:channel-path=/6518-tnt-sports-1-tv-schedule
+http://kstv.us:8080/jimmyrhale/JE1974aa$$/47850
+
+#EXTINF:-1 tvg-id="TNTSports3.uk@HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-3-uk.png" group-title="Sports",TNT Sports 3
+#EXTYTVMETA:channel-path=/8654-tnt-sports-3-tv-schedule
+http://kstv.us:8080/jimmyrhale/JE1974aa$$/47852

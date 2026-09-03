@@ -91,18 +91,13 @@ http://stream.mcquack.net/390/index.m3u8
 https://7nyaler.streamhostingcdn.top/stream/31/index.m3u8
 #EXTINF:-1 tvg-id="SkySportCalcio.it@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Sky_Sport_Calcio.svg/960px-Sky_Sport_Calcio.svg.png" group-title="Sports" quality="HD" priority="1" channel-id="3640",Sky Sport Calcio
 https://7nyaler.streamhostingcdn.top/stream/21/index.m3u8
-#EXTINF:-1 tvg-id="SkySportsFootball.uk@HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3838.png" group-title="Sports" quality="FHD" priority="1" channel-id="8648",Sky Sports Football
 https://7nyaler.streamhostingcdn.top/stream/39/index.m3u8
 #EXTINF:-1 tvg-id="SkySportsPlus.uk@HD" tvg-logo="https://imgur.com/FzzpF1f.png" group-title="Sports" quality="FHD" priority="1" channel-id="8005",Sky Sports+
 https://7nyaler.streamhostingcdn.top/stream/11/index.m3u8
-#EXTINF:-1 tvg-id="SkySportsPremierLeagueROI.uk@HD" tvg-logo="https://imgur.com/FzzpF1f.png" group-title="Sports" quality="FHD" priority="1" channel-id="8647",Sky Sports Premier League
-https://7nyaler.streamhostingcdn.top/stream/38/index.m3u8
 #EXTINF:-1 tvg-id="SkySportTopEvent.de@HD" tvg-logo="https://i.imgur.com/kQ6cVNx.png" group-title="Sports" quality="FHD" priority="1" channel-id="1896",Sky Sport Top Event
 https://7nyaler.streamhostingcdn.top/stream/6/index.m3u8
 #EXTINF:-1 tvg-id="SkySportUno.it@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Sky_Sport_Uno_-_Logo_2020.svg/960px-Sky_Sport_Uno_-_Logo_2020.svg.png" group-title="Sports" quality="FHD" priority="1" channel-id="8695",Sky Sports Uno
 https://7nyaler.streamhostingcdn.top/stream/17/index.m3u8
-#EXTINF:-1 tvg-id="SkySportsMainEvent.uk@HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1301.png" group-title="Sports" quality="FHD" priority="1" channel-id="8646",Sky Sports Main Event
-https://7nyaler.streamhostingcdn.top/stream/19/index.m3u8
 
 #EXTINF:-1 tvg-id="Spiler1.hu@SD" tvg-logo="https://i.imgur.com/pbk8c4x.png" group-title="Sports" channel-id="5180",Spiler 1
 http://88.212.15.19/live/spiler1/index.m3u8
