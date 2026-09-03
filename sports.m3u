@@ -60,11 +60,6 @@ https://7nyaler.streamhostingcdn.top/stream/61/index.m3u8
 #EXTINF:-1 tvg-id="PolsatSport2.pl@HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/x2hsgr1771005739.png" group-title="Sports" quality="HD" channel-id="3550",Polsat Sport 2
 https://7nyaler.streamhostingcdn.top/stream/89/index.m3u8
 
-#EXTINF:-1 tvg-id="PremierSports1.ie@HD" tvg-logo="https://imgur.com/eOybZMU.png" group-title="Sports" channel-id="2874",Premier Sports 1
-https://7nyaler.streamhostingcdn.top/stream/47/index.m3u8
-#EXTINF:-1 tvg-id="PremierSports2.ie@HD" tvg-logo="https://imgur.com/Fx1n84p.png" group-title="Sports" channel-id="21",Premier Sports 2
-https://7nyaler.streamhostingcdn.top/stream/5/index.m3u8
-
 #EXTINF:-1 tvg-id="PrimaSport1.ro@HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/iymjt11656958292.png" group-title="Sports" channel-id="2904",Prima Sport 1
 https://7nyaler.streamhostingcdn.top/stream/83/index.m3u8
 
@@ -99,11 +94,6 @@ https://7nyaler.streamhostingcdn.top/stream/6/index.m3u8
 #EXTINF:-1 tvg-id="SkySportUno.it@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Sky_Sport_Uno_-_Logo_2020.svg/960px-Sky_Sport_Uno_-_Logo_2020.svg.png" group-title="Sports" quality="FHD" priority="1" channel-id="8695",Sky Sports Uno
 https://7nyaler.streamhostingcdn.top/stream/17/index.m3u8
 
-#EXTINF:-1 tvg-id="Spiler1.hu@SD" tvg-logo="https://i.imgur.com/pbk8c4x.png" group-title="Sports" channel-id="5180",Spiler 1
-http://88.212.15.19/live/spiler1/index.m3u8
-#EXTINF:-1 tvg-id="Spiler2.hu@SD" tvg-logo="https://i.imgur.com/1e0VsVH.png" group-title="Sports" channel-id="5181",Spiler 2
-http://88.212.15.19/live/spiler2/index.m3u8
-
 #EXTINF:-1 tvg-id="SportdigitalFUSSBALL.de@SD" tvg-logo="https://imgur.com/NDbWxqF.png" group-title="Sports" channel-id="3114",Sportdigital FUSSBALL
 https://7nyaler.streamhostingcdn.top/stream/15/index.m3u8
 
@@ -122,11 +112,6 @@ http://zntx.dyndns.org:8085/hls/stv6.m3u8
 http://zntx.dyndns.org:8085/hls/stv7.m3u8
 #EXTINF:-1 tvg-id="SportTVPlus.pt@SD" tvg-logo="https://i.imgur.com/R5FZEW6.png" group-title="Sports",Sport TV+
 http://znty.dyndns.org:5010/hls/sportv+.m3u8
-
-#EXTINF:-1 tvg-id="TNTSports1.uk@HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-1-uk.png" group-title="Sports" quality="HD" channel-id="6518",TNT Sports 1
-https://7nyaler.streamhostingcdn.top/stream/13/index.m3u8
-#EXTINF:-1 tvg-id="TNTSports3.uk@HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-3-uk.png" group-title="Sports" quality="HD" channel-id="8654",TNT Sports 3
-https://7nyaler.streamhostingcdn.top/stream/60/index.m3u8
 
 #EXTINF:-1 tvg-id="TV3PlusSport.dk@HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/TV_3.png" group-title="Sports" quality="HD" channel-id="4098",TV 3+ Sport
 https://7nyaler.streamhostingcdn.top/stream/49/index.m3u8

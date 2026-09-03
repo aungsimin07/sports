@@ -1,4 +1,20 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="PolsatSport1.pl@HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/padw0k1655540397.png" group-title="Sports" quality="HD" channel-id="3549",Polsat Sport 1
+#EXTYTVMETA:channel-path=
+https://7nyaler.streamhostingcdn.top/stream/61/index.m3u8
+
+#EXTINF:-1 tvg-id="PolsatSport2.pl@HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/x2hsgr1771005739.png" group-title="Sports" quality="HD" channel-id="3550",Polsat Sport 2
+#EXTYTVMETA:channel-path=
+https://7nyaler.streamhostingcdn.top/stream/89/index.m3u8
+
+#EXTINF:-1 tvg-id="PremierSports1.ie@HD" tvg-logo="https://imgur.com/eOybZMU.png" group-title="Sports",Premier Sports 1
+#EXTYTVMETA:channel-path=/2874-premier-sports-1-ie-tv-schedule
+http://kstv.us:8080/live/jimmyrhale/JE1974aa$$/47858.m3u8
+
+#EXTINF:-1 tvg-id="PremierSports2.ie@HD" tvg-logo="https://imgur.com/Fx1n84p.png" group-title="Sports",Premier Sports 2
+#EXTYTVMETA:channel-path=/21-premier-sports-2-ie-tv-schedule
+http://kstv.us:8080/live/jimmyrhale/JE1974aa$$/47859.m3u8
+
 #EXTINF:-1 tvg-id="SkySportsPremierLeagueROI.uk@HD" tvg-logo="https://imgur.com/FzzpF1f.png" group-title="Sports",Sky Sports Premier League
 #EXTYTVMETA:channel-path=/8647-sky-sports-premier-league-tv-schedule
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/47871
@@ -22,6 +38,14 @@ http://kstv.us:8080/live/jimmyrhale/JE1974aa$$/47869.m3u8
 #EXTINF:-1 tvg-id="SkySportsFootball.uk@HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3838.png" group-title="Sports",Sky Sports Football
 #EXTYTVMETA:channel-path=/8648-sky-sports-football-tv-schedule
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/47866
+
+#EXTINF:-1 tvg-id="Spiler1.hu@SD" tvg-logo="https://i.imgur.com/pbk8c4x.png" group-title="Sports",Spiler 1
+#EXTYTVMETA:channel-path=/5180-spíler1-hu-tv-schedule
+http://88.212.15.19/live/spiler1/index.m3u8
+
+#EXTINF:-1 tvg-id="Spiler2.hu@SD" tvg-logo="https://i.imgur.com/1e0VsVH.png" group-title="Sports",Spiler 2
+#EXTYTVMETA:channel-path=/5181-spíler2-hu-tv-schedule
+http://88.212.15.19/live/spiler2/index.m3u8
 
 #EXTINF:-1 tvg-id="TNTSports1.uk@HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-1-uk.png" group-title="Sports",TNT Sports 1
 #EXTYTVMETA:channel-path=/6518-tnt-sports-1-tv-schedule
