@@ -1,0 +1,8 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SkySportsPremierLeagueROI.uk@HD" tvg-logo="https://imgur.com/FzzpF1f.png" group-title="Sports",Sky Sports Premier League
+#EXTYTVMETA:channel-path=/8647-sky-sports-premier-league-tv-schedule
+http://kstv.us:8080/jimmyrhale/JE1974aa$$/47871
+
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk@HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1301.png" group-title="Sports" quality="FHD" priority="1" channel-id="8646",Sky Sports Main Event
+#EXTYTVMETA:channel-path=/8646-sky-sports-main-event-tv-schedule
+http://kstv.us:8080/jimmyrhale/JE1974aa$$/47868
