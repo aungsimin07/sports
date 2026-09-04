@@ -1,11 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="PolsatSport1.pl@HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/padw0k1655540397.png" group-title="Sports" quality="HD" channel-id="3549",Polsat Sport 1
-#EXTYTVMETA:channel-path=
-https://7nyaler.streamhostingcdn.top/stream/61/index.m3u8
+#EXTINF:-1 tvg-id="PolsatSport1.pl@HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/padw0k1655540397.png" group-title="Sports",Polsat Sport 1
+#EXTYTVMETA:channel-path=/3549-polsat-sport-tv-schedule
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1729162&extension=ts&play_token=9JXfYd9pyq
 
-#EXTINF:-1 tvg-id="PolsatSport2.pl@HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/x2hsgr1771005739.png" group-title="Sports" quality="HD" channel-id="3550",Polsat Sport 2
-#EXTYTVMETA:channel-path=
-https://7nyaler.streamhostingcdn.top/stream/89/index.m3u8
+#EXTINF:-1 tvg-id="PolsatSport2.pl@HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/x2hsgr1771005739.png" group-title="Sports",Polsat Sport 2
+#EXTYTVMETA:channel-path=/3550-polsat-sport-2-tv-schedule
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1729164&extension=ts&play_token=vFbihF9Rmr
+
+#EXTINF:-1 tvg-id="PolsatSport3.pl@HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/d7rdcx1771005909.png" group-title="Sports",Polsat Sport 3
+#EXTYTVMETA:channel-path=/3588-polsat-sport-3-tv-schedule
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1729168&extension=ts&play_token=ThvjYQPppG
 
 #EXTINF:-1 tvg-id="PremierSports1.ie@HD" tvg-logo="https://imgur.com/eOybZMU.png" group-title="Sports",Premier Sports 1
 #EXTYTVMETA:channel-path=/2874-premier-sports-1-ie-tv-schedule
@@ -51,6 +55,10 @@ http://88.212.15.19/live/spiler2/index.m3u8
 #EXTYTVMETA:channel-path=/6518-tnt-sports-1-tv-schedule
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/47850
 
+#EXTINF:-1 tvg-id="TNTSports1.uk@HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-1-uk.png" group-title="Sports",TNT Sports 1
+#EXTYTVMETA:channel-path=/6518-tnt-sports-1-tv-schedule
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=894977&extension=ts&play_token=W2HvDO5iES
+
 #EXTINF:-1 tvg-id="TNTSports2.uk@HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-2-uk.png" group-title="Sports",TNT Sports 2
 #EXTYTVMETA:channel-path=/6519-tnt-sports-2-tv-schedule
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/47851
@@ -67,3 +75,6 @@ http://kstv.us:8080/jimmyrhale/JE1974aa$$/47853
 #EXTYTVMETA:channel-path=/8631-tnt-sports-ultimate-tv-schedule
 http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1281083.m3u8
 
+#EXTINF:-1 tvg-id="TyCSports.ar@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" group-title="Sports",TyC Sports
+#EXTYTVMETA:channel-path=/5001-tyc-sports-arg-tv-schedule
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1090606&extension=ts&play_token=UU20nTSWow
