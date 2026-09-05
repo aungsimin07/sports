@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="DigiSport1.ro@HD" tvg-logo="https://i.imgur.com/5zMxDYq.png" group-title="Sports",Digi Sport 1
+#EXTYTVMETA:channel-path=/4229-digi-sport-1-romania-tv-schedule
+http://tpjgkqnu.vexiumis.top/iptv/ZFMBTT94BTSVQMFVDASEV6XS/2523/index.m3u8
+
+#EXTINF:-1 tvg-id="NovaSport4.cz@HD" tvg-logo="https://imgur.com/R14S6El.png" group-title="Sports",Nova Sport 4
+#EXTYTVMETA:channel-path=/5176-nova-sport-4-cz-tv-schedule
+http://tpjgkqnu.vexiumis.top/iptv/ZFMBTT94BTSVQMFVDASEV6XS/31571/index.m3u8
+
 #EXTINF:-1 tvg-id="PolsatSport1.pl@HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/padw0k1655540397.png" group-title="Sports",Polsat Sport 1
 #EXTYTVMETA:channel-path=/3549-polsat-sport-tv-schedule
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1729162&extension=ts&play_token=9JXfYd9pyq
