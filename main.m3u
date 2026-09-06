@@ -7,6 +7,14 @@ http://stream.mcquack.net/33/index.m3u8
 #EXTYTVMETA:channel-path=/1648-belarus-5-tv-schedule
 https://streaming.thestream.cyou/live/7001.m3u8
 
+#EXTINF:-1 tvg-id="CosmoteSport1.gr@HD" tvg-logo="https://imgur.com/fn0TM6V.png" group-title="Sports",Cosmote Sport 1
+#EXTYTVMETA:channel-path=/5940-cosmote-sport-1-gr-tv-schedule
+http://tpjgkqnu.vexiumis.top/iptv/ZFMBTT94BTSVQMFVDASEV6XS/31578/index.m3u8
+
+#EXTINF:-1 tvg-id="CosmoteSport2.gr@HD" tvg-logo="https://i.imgur.com/1RSyE5N.png" group-title="Sports",Cosmote Sport 2
+#EXTYTVMETA:channel-path=/5941-cosmote-sport-2-gr-tv-schedule
+http://tpjgkqnu.vexiumis.top/iptv/ZFMBTT94BTSVQMFVDASEV6XS/31579/index.m3u8
+
 #EXTINF:-1 tvg-id="DigiSport1.ro@HD" tvg-logo="https://i.imgur.com/5zMxDYq.png" group-title="Sports",Digi Sport 1
 #EXTYTVMETA:channel-path=/4229-digi-sport-1-romania-tv-schedule
 http://tpjgkqnu.vexiumis.top/iptv/ZFMBTT94BTSVQMFVDASEV6XS/2523/index.m3u8
