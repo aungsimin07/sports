@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ArenaSport1Premium.rs@SD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/wmvrmi1643205486.png" group-title="Sports",Arena Sport 1 Premium (RS)
+#EXTYTVMETA:channel-path=/2377-arena-sport-1-premium-rs-tv-schedule
+http://tpjgkqnu.vexiumis.top/iptv/ZFMBTT94BTSVQMFVDASEV6XS/31599/index.m3u8
+
+#EXTINF:-1 tvg-id="ArenaSport2Premium.rs@SD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/l4y8gt1643205498.png" group-title="Sports",Arena Sport 2 Premium (RS)
+#EXTYTVMETA:channel-path=/2378-arena-sport-2-premium-rs-tv-schedule
+http://tpjgkqnu.vexiumis.top/iptv/ZFMBTT94BTSVQMFVDASEV6XS/31600/index.m3u8
+
+#EXTINF:-1 tvg-id="ArenaSport3Premium.rs@SD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/gtlulj1643205508.png" group-title="Sports",Arena Sport 3 Premium (RS)
+#EXTYTVMETA:channel-path=/2379-arena-sport-3-premium-rs-tv-schedule
+http://tpjgkqnu.vexiumis.top/iptv/ZFMBTT94BTSVQMFVDASEV6XS/31601/index.m3u8
+
 #EXTINF:-1 tvg-id="ArenaSport1.sk@HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/aq5ccz1649341842.png" group-title="Sports",Arena Sport 1 (SK)
 #EXTYTVMETA:channel-path=/5178-arena-sport-1-sk-tv-schedule
 http://88.212.15.50/live/test_arenasport/playlist.m3u8
@@ -107,6 +119,10 @@ http://tpjgkqnu.vexiumis.top/iptv/ZFMBTT94BTSVQMFVDASEV6XS/31587/index.m3u8
 #EXTYTVMETA:load-control-buffer-for-playback-after-rebuffer-ms=30000
 http://tpjgkqnu.vexiumis.top/iptv/ZFMBTT94BTSVQMFVDASEV6XS/2523/index.m3u8
 
+#EXTINF:-1 tvg-id="M4Sport.hu@SD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/wiw4ze1590153070.png" group-title="Sports",M4 Sport HU
+#EXTYTVMETA:channel-path=/4031-m4-sport-hu-tv-schedule
+http://tpjgkqnu.vexiumis.top/iptv/ZFMBTT94BTSVQMFVDASEV6XS/31593/index.m3u8
+
 #EXTINF:-1 tvg-id="NovaSport4.cz@HD" tvg-logo="https://imgur.com/R14S6El.png" group-title="Sports",Nova Sport 4
 #EXTYTVMETA:channel-path=/5176-nova-sport-4-cz-tv-schedule
 #EXTYTVMETA:load-control-min-buffer-ms=48000
@@ -192,6 +208,10 @@ http://88.212.15.19/live/spiler1/index.m3u8
 #EXTYTVMETA:load-control-buffer-for-playback-ms=9000
 #EXTYTVMETA:load-control-buffer-for-playback-after-rebuffer-ms=18000
 http://88.212.15.19/live/spiler2/index.m3u8
+
+#EXTINF:-1 tvg-id="SportTVPlus.pt@SD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qxxyst1474691176.png" group-title="Sports",Sport TV +
+#EXTYTVMETA:channel-path=/2561-sport-tv-África-1-tv-schedule
+http://tpjgkqnu.vexiumis.top/iptv/ZFMBTT94BTSVQMFVDASEV6XS/31590/index.m3u8
 
 #EXTINF:-1 tvg-id="TNTSports1.uk@HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-1-uk.png" group-title="Sports",TNT Sports 1
 #EXTYTVMETA:channel-path=/6518-tnt-sports-1-tv-schedule
