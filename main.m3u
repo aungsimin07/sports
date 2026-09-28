@@ -55,7 +55,7 @@ http://stream.mcquack.net/33/index.m3u8
 #EXTYTVMETA:load-control-buffer-for-playback-after-rebuffer-ms=20000
 https://streaming.thestream.cyou/live/7001.m3u8
 
-#EXTINF:-1 tvg-id="CTSport.cz@SD" tvg-logo="" group-title="Sports",CT Sport
+#EXTINF:-1 tvg-id="CTSport.cz@SD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/emke3z1616616067.png" group-title="Sports",CT Sport
 #EXTYTVMETA:channel-path=/2907-ct-sport-tv-schedule
 #EXTYTVMETA:load-control-min-buffer-ms=24000
 #EXTYTVMETA:load-control-max-buffer-ms=48000
