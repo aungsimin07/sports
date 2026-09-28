@@ -39,7 +39,7 @@ http://88.212.15.50/live/test_arenasport/playlist.m3u8
 #EXTYTVMETA:load-control-buffer-for-playback-after-rebuffer-ms=18000
 http://88.212.15.50/live/test_arenasport_dva/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Belarus5.by@SD" tvg-logo="https://i.imgur.com/NJsRFud.png" group-title="Sports",Belarus-5
+#EXTINF:-1 tvg-id="Belarus5.by@SD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/iq25nh1627494674.png" group-title="Sports",Belarus-5
 #EXTYTVMETA:channel-path=/1648-belarus-5-tv-schedule
 #EXTYTVMETA:load-control-min-buffer-ms=30000
 #EXTYTVMETA:load-control-max-buffer-ms=60000
@@ -47,7 +47,7 @@ http://88.212.15.50/live/test_arenasport_dva/playlist.m3u8
 #EXTYTVMETA:load-control-buffer-for-playback-after-rebuffer-ms=20000
 http://stream.mcquack.net/33/index.m3u8
 
-#EXTINF:-1 tvg-id="Belarus5.by@SD" tvg-logo="https://i.imgur.com/NJsRFud.png" group-title="Sports",Belarus-5
+#EXTINF:-1 tvg-id="Belarus5.by@SD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/iq25nh1627494674.png" group-title="Sports",Belarus-5
 #EXTYTVMETA:channel-path=/1648-belarus-5-tv-schedule
 #EXTYTVMETA:load-control-min-buffer-ms=30000
 #EXTYTVMETA:load-control-max-buffer-ms=60000
@@ -63,7 +63,7 @@ https://streaming.thestream.cyou/live/7001.m3u8
 #EXTYTVMETA:load-control-buffer-for-playback-after-rebuffer-ms=18000
 http://88.212.7.11/live/test_ctsport_25p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MagentaSport1.gr@HD" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/dqalbp1789194525.png" group-title="Sports",Magenta Sport 1
+#EXTINF:-1 tvg-id="MagentaSport1.gr@HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/dqalbp1789194525.png" group-title="Sports",Magenta Sport 1
 #EXTYTVMETA:channel-path=/5940-magenta-sport-1-gr-tv-schedule
 #EXTYTVMETA:load-control-min-buffer-ms=40000
 #EXTYTVMETA:load-control-max-buffer-ms=80000
@@ -71,7 +71,7 @@ http://88.212.7.11/live/test_ctsport_25p/playlist.m3u8
 #EXTYTVMETA:load-control-buffer-for-playback-after-rebuffer-ms=20000
 http://tpjgkqnu.vexiumis.top/iptv/ZFMBTT94BTSVQMFVDASEV6XS/31578/index.m3u8
 
-#EXTINF:-1 tvg-id="MagentaSport2.gr@HD" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/2ohgm01789194537.png" group-title="Sports",Magenta Sport 2
+#EXTINF:-1 tvg-id="MagentaSport2.gr@HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/2ohgm01789194537.png" group-title="Sports",Magenta Sport 2
 #EXTYTVMETA:channel-path=/5941-magenta-sport-2-gr-tv-schedule
 #EXTYTVMETA:load-control-min-buffer-ms=40000
 #EXTYTVMETA:load-control-max-buffer-ms=80000
@@ -79,7 +79,7 @@ http://tpjgkqnu.vexiumis.top/iptv/ZFMBTT94BTSVQMFVDASEV6XS/31578/index.m3u8
 #EXTYTVMETA:load-control-buffer-for-playback-after-rebuffer-ms=20000
 http://tpjgkqnu.vexiumis.top/iptv/ZFMBTT94BTSVQMFVDASEV6XS/31579/index.m3u8
 
-#EXTINF:-1 tvg-id="MagentaSport3.gr@HD" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/m14cdh1789194628.png" group-title="Sports",Magenta Sport 2
+#EXTINF:-1 tvg-id="MagentaSport3.gr@HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/m14cdh1789194628.png" group-title="Sports",Magenta Sport 3
 #EXTYTVMETA:channel-path=/5942-magenta-sport-3-gr-tv-schedule
 #EXTYTVMETA:load-control-min-buffer-ms=40000
 #EXTYTVMETA:load-control-max-buffer-ms=80000
@@ -87,7 +87,7 @@ http://tpjgkqnu.vexiumis.top/iptv/ZFMBTT94BTSVQMFVDASEV6XS/31579/index.m3u8
 #EXTYTVMETA:load-control-buffer-for-playback-after-rebuffer-ms=20000
 http://tpjgkqnu.vexiumis.top/iptv/ZFMBTT94BTSVQMFVDASEV6XS/31581/index.m3u8
 
-#EXTINF:-1 tvg-id="MagentaSport4.gr@HD" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/idctqy1789194642.png" group-title="Sports",Magenta Sport 4
+#EXTINF:-1 tvg-id="MagentaSport4.gr@HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/idctqy1789194642.png" group-title="Sports",Magenta Sport 4
 #EXTYTVMETA:channel-path=/5943-magenta-sport-4-gr-tv-schedule
 #EXTYTVMETA:load-control-min-buffer-ms=40000
 #EXTYTVMETA:load-control-max-buffer-ms=80000
@@ -95,7 +95,7 @@ http://tpjgkqnu.vexiumis.top/iptv/ZFMBTT94BTSVQMFVDASEV6XS/31581/index.m3u8
 #EXTYTVMETA:load-control-buffer-for-playback-after-rebuffer-ms=20000
 http://tpjgkqnu.vexiumis.top/iptv/ZFMBTT94BTSVQMFVDASEV6XS/31582/index.m3u8
 
-#EXTINF:-1 tvg-id="MagentaSport5.gr@HD" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/kpja821789194690.png" group-title="Sports",Magenta Sport 5
+#EXTINF:-1 tvg-id="MagentaSport5.gr@HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/kpja821789194690.png" group-title="Sports",Magenta Sport 5
 #EXTYTVMETA:channel-path=/5944-magenta-sport-5-gr-tv-schedule
 #EXTYTVMETA:load-control-min-buffer-ms=40000
 #EXTYTVMETA:load-control-max-buffer-ms=80000
@@ -103,7 +103,7 @@ http://tpjgkqnu.vexiumis.top/iptv/ZFMBTT94BTSVQMFVDASEV6XS/31582/index.m3u8
 #EXTYTVMETA:load-control-buffer-for-playback-after-rebuffer-ms=20000
 http://tpjgkqnu.vexiumis.top/iptv/ZFMBTT94BTSVQMFVDASEV6XS/31583/index.m3u8
 
-#EXTINF:-1 tvg-id="MagentaSport6.gr@HD" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/pq3voa1789194696.png" group-title="Sports",Magenta Sport 6
+#EXTINF:-1 tvg-id="MagentaSport6.gr@HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/pq3voa1789194696.png" group-title="Sports",Magenta Sport 6
 #EXTYTVMETA:channel-path=/5945-magenta-sport-6-gr-tv-schedule
 #EXTYTVMETA:load-control-min-buffer-ms=40000
 #EXTYTVMETA:load-control-max-buffer-ms=80000
@@ -111,7 +111,7 @@ http://tpjgkqnu.vexiumis.top/iptv/ZFMBTT94BTSVQMFVDASEV6XS/31583/index.m3u8
 #EXTYTVMETA:load-control-buffer-for-playback-after-rebuffer-ms=20000
 http://tpjgkqnu.vexiumis.top/iptv/ZFMBTT94BTSVQMFVDASEV6XS/31584/index.m3u8
 
-#EXTINF:-1 tvg-id="MagentaSport7.gr@HD" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/vodml61789194703.png" group-title="Sports",Magenta Sport 7
+#EXTINF:-1 tvg-id="MagentaSport7.gr@HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/vodml61789194703.png" group-title="Sports",Magenta Sport 7
 #EXTYTVMETA:channel-path=/5946-magenta-sport-7-gr-tv-schedule
 #EXTYTVMETA:load-control-min-buffer-ms=40000
 #EXTYTVMETA:load-control-max-buffer-ms=80000
@@ -119,7 +119,7 @@ http://tpjgkqnu.vexiumis.top/iptv/ZFMBTT94BTSVQMFVDASEV6XS/31584/index.m3u8
 #EXTYTVMETA:load-control-buffer-for-playback-after-rebuffer-ms=20000
 http://tpjgkqnu.vexiumis.top/iptv/ZFMBTT94BTSVQMFVDASEV6XS/31585/index.m3u8
 
-#EXTINF:-1 tvg-id="MagentaSport8.gr@HD" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/c0vhpf1789194712.png" group-title="Sports",Magenta Sport 8
+#EXTINF:-1 tvg-id="MagentaSport8.gr@HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/c0vhpf1789194712.png" group-title="Sports",Magenta Sport 8
 #EXTYTVMETA:channel-path=/5947-magenta-sport-8-gr-tv-schedule
 #EXTYTVMETA:load-control-min-buffer-ms=40000
 #EXTYTVMETA:load-control-max-buffer-ms=80000
@@ -127,7 +127,7 @@ http://tpjgkqnu.vexiumis.top/iptv/ZFMBTT94BTSVQMFVDASEV6XS/31585/index.m3u8
 #EXTYTVMETA:load-control-buffer-for-playback-after-rebuffer-ms=20000
 http://tpjgkqnu.vexiumis.top/iptv/ZFMBTT94BTSVQMFVDASEV6XS/31586/index.m3u8
 
-#EXTINF:-1 tvg-id="MagentaSport9.gr@HD" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/sozv7e1789194729.png" group-title="Sports",Magenta Sport 9
+#EXTINF:-1 tvg-id="MagentaSport9.gr@HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sozv7e1789194729.png" group-title="Sports",Magenta Sport 9
 #EXTYTVMETA:channel-path=/5948-magenta-sport-9-gr-tv-schedule
 #EXTYTVMETA:load-control-min-buffer-ms=40000
 #EXTYTVMETA:load-control-max-buffer-ms=80000
@@ -135,7 +135,7 @@ http://tpjgkqnu.vexiumis.top/iptv/ZFMBTT94BTSVQMFVDASEV6XS/31586/index.m3u8
 #EXTYTVMETA:load-control-buffer-for-playback-after-rebuffer-ms=20000
 http://tpjgkqnu.vexiumis.top/iptv/ZFMBTT94BTSVQMFVDASEV6XS/31587/index.m3u8
 
-#EXTINF:-1 tvg-id="DigiSport1.ro@HD" tvg-logo="https://i.imgur.com/5zMxDYq.png" group-title="Sports",Digi Sport 1
+#EXTINF:-1 tvg-id="DigiSport1.ro@HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/svrprs1436105433.png" group-title="Sports",Digi Sport 1
 #EXTYTVMETA:channel-path=/4229-digi-sport-1-romania-tv-schedule
 #EXTYTVMETA:load-control-min-buffer-ms=40000
 #EXTYTVMETA:load-control-max-buffer-ms=90000
@@ -192,7 +192,7 @@ http://kstv.us:8080/live/jimmyrhale/JE1974aa$$/47858.m3u8
 #EXTYTVMETA:is-server-dead=true
 http://kstv.us:8080/live/jimmyrhale/JE1974aa$$/47859.m3u8
 
-#EXTINF:-1 tvg-id="RTVSport.sk@HD" tvg-logo="https://i.imgur.com/oAtcxNZ.png" group-title="Sports",RTV:Šport
+#EXTINF:-1 tvg-id="RTVSport.sk@HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/0t17181656960552.png" group-title="Sports",RTV:Šport
 #EXTYTVMETA:channel-path=/5159-rtv%3aŠport-tv-schedule
 #EXTYTVMETA:load-control-min-buffer-ms=24000
 #EXTYTVMETA:load-control-max-buffer-ms=48000
@@ -213,23 +213,23 @@ http://88.212.15.50/live/test_sport1_25p/playlist.m3u8
 #EXTYTVMETA:is-server-dead=true
 http://88.212.15.50/live/test_sport_2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SkySportsPremierLeagueROI.uk@HD" tvg-logo="https://imgur.com/FzzpF1f.png" group-title="Sports",Sky Sports Premier League
+#EXTINF:-1 tvg-id="SkySportsPremierLeagueROI.uk@HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/b8avz51719570023.png" group-title="Sports",Sky Sports Premier League
 #EXTYTVMETA:channel-path=/8647-sky-sports-premier-league-tv-schedule
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/47871
 
-#EXTINF:-1 tvg-id="SkySportsMainEvent.uk@HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1301.png" group-title="Sports",Sky Sports Main Event
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk@HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ub8szd1780683863.png" group-title="Sports",Sky Sports Main Event
 #EXTYTVMETA:channel-path=/8646-sky-sports-main-event-tv-schedule
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/47868
 
-#EXTINF:-1 tvg-id="SkySportsMainEvent.uk@HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1301.png" group-title="Sports",Sky Sports Main Event
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk@HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ub8szd1780683863.png" group-title="Sports",Sky Sports Main Event
 #EXTYTVMETA:channel-path=/8646-sky-sports-main-event-tv-schedule
 http://kstv.us:8080/live/Kh2fHxR0c8/3333726709/47868.ts
 
-#EXTINF:-1 tvg-id="SkySportsMainEvent.uk@HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1301.png" group-title="Sports",Sky Sports Main Event 4K
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk@HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ub8szd1780683863.png" group-title="Sports",Sky Sports Main Event 4K
 #EXTYTVMETA:channel-path=/8646-sky-sports-main-event-tv-schedule
 http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1281430.m3u8
 
-#EXTINF:-1 tvg-id="SkySportsMix.uk@HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb4091.png" group-title="Sports",Sky Sports Mix
+#EXTINF:-1 tvg-id="SkySportsMix.uk@HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ir8di71688294404.png" group-title="Sports",Sky Sports Mix
 #EXTYTVMETA:channel-path=/8698-sky-sports-mix-tv-schedule
 #EXTYTVMETA:load-control-min-buffer-ms=40000
 #EXTYTVMETA:load-control-max-buffer-ms=90000
@@ -237,11 +237,11 @@ http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1281430.m3u8
 #EXTYTVMETA:load-control-buffer-for-playback-after-rebuffer-ms=30000
 http://kstv.us:8080/live/jimmyrhale/JE1974aa$$/47869.m3u8
 
-#EXTINF:-1 tvg-id="SkySportsFootball.uk@HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3838.png" group-title="Sports",Sky Sports Football
+#EXTINF:-1 tvg-id="SkySportsFootball.uk@HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/lnd1p01502554851.png" group-title="Sports",Sky Sports Football
 #EXTYTVMETA:channel-path=/8648-sky-sports-football-tv-schedule
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/47866
 
-#EXTINF:-1 tvg-id="Spiler1.hu@SD" tvg-logo="https://i.imgur.com/pbk8c4x.png" group-title="Sports",Spiler 1
+#EXTINF:-1 tvg-id="Spiler1.hu@SD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/nnd0xi1649342265.png" group-title="Sports",Spiler 1
 #EXTYTVMETA:channel-path=/5180-spíler1-hu-tv-schedule
 #EXTYTVMETA:load-control-min-buffer-ms=24000
 #EXTYTVMETA:load-control-max-buffer-ms=48000
@@ -249,7 +249,7 @@ http://kstv.us:8080/jimmyrhale/JE1974aa$$/47866
 #EXTYTVMETA:load-control-buffer-for-playback-after-rebuffer-ms=18000
 http://88.212.15.19/live/spiler1/index.m3u8
 
-#EXTINF:-1 tvg-id="Spiler2.hu@SD" tvg-logo="https://i.imgur.com/1e0VsVH.png" group-title="Sports",Spiler 2
+#EXTINF:-1 tvg-id="Spiler2.hu@SD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/foupei1649342285.png" group-title="Sports",Spiler 2
 #EXTYTVMETA:channel-path=/5181-spíler2-hu-tv-schedule
 #EXTYTVMETA:load-control-min-buffer-ms=18000
 #EXTYTVMETA:load-control-max-buffer-ms=60000
@@ -265,27 +265,27 @@ http://88.212.15.19/live/spiler2/index.m3u8
 #EXTYTVMETA:load-control-buffer-for-playback-after-rebuffer-ms=20000
 http://tpjgkqnu.vexiumis.top/iptv/ZFMBTT94BTSVQMFVDASEV6XS/31590/index.m3u8
 
-#EXTINF:-1 tvg-id="TNTSports1.uk@HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-1-uk.png" group-title="Sports",TNT Sports 1
+#EXTINF:-1 tvg-id="TNTSports1.uk@HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png" group-title="Sports",TNT Sports 1
 #EXTYTVMETA:channel-path=/6518-tnt-sports-1-tv-schedule
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/47850
 
-#EXTINF:-1 tvg-id="TNTSports1.uk@HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-1-uk.png" group-title="Sports",TNT Sports 1
+#EXTINF:-1 tvg-id="TNTSports1.uk@HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png" group-title="Sports",TNT Sports 1
 #EXTYTVMETA:channel-path=/6518-tnt-sports-1-tv-schedule
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=894977&extension=ts&play_token=W2HvDO5iES
 
-#EXTINF:-1 tvg-id="TNTSports2.uk@HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-2-uk.png" group-title="Sports",TNT Sports 2
+#EXTINF:-1 tvg-id="TNTSports2.uk@HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/lzqo991689746090.png" group-title="Sports",TNT Sports 2
 #EXTYTVMETA:channel-path=/6519-tnt-sports-2-tv-schedule
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/47851
 
-#EXTINF:-1 tvg-id="TNTSports3.uk@HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-3-uk.png" group-title="Sports",TNT Sports 3
+#EXTINF:-1 tvg-id="TNTSports3.uk@HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/iwotea1701768457.png" group-title="Sports",TNT Sports 3
 #EXTYTVMETA:channel-path=/8654-tnt-sports-3-tv-schedule
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/47852
 
-#EXTINF:-1 tvg-id="TNTSports4.uk@HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-3-uk.png" group-title="Sports",TNT Sports 4
+#EXTINF:-1 tvg-id="TNTSports4.uk@HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/81twnr1689746183.png" group-title="Sports",TNT Sports 4
 #EXTYTVMETA:channel-path=/8163-tnt-sports-4-tv-schedule
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/47853
 
-#EXTINF:-1 tvg-id="TNTSportsUltimate.uk@HD" tvg-logo="https://i.imgur.com/fAyvqdH.png" group-title="Sports",TNT Sports Ultimate 4K
+#EXTINF:-1 tvg-id="TNTSportsUltimate.uk@HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/13fost1689746391.png" group-title="Sports",TNT Sports Ultimate 4K
 #EXTYTVMETA:channel-path=/8631-tnt-sports-ultimate-tv-schedule
 #EXTYTVMETA:load-control-min-buffer-ms=24000
 #EXTYTVMETA:load-control-max-buffer-ms=90000
@@ -293,6 +293,6 @@ http://kstv.us:8080/jimmyrhale/JE1974aa$$/47853
 #EXTYTVMETA:load-control-buffer-for-playback-after-rebuffer-ms=8000
 http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1281083.m3u8
 
-#EXTINF:-1 tvg-id="TyCSports.ar@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" group-title="Sports",TyC Sports
+#EXTINF:-1 tvg-id="TyCSports.ar@HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/zmpjy41624030194.png" group-title="Sports",TyC Sports
 #EXTYTVMETA:channel-path=/5001-tyc-sports-arg-tv-schedule
 http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1090606&extension=ts&play_token=UU20nTSWow
