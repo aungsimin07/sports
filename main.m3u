@@ -151,7 +151,15 @@ http://tpjgkqnu.vexiumis.top/iptv/ZFMBTT94BTSVQMFVDASEV6XS/2523/index.m3u8
 #EXTYTVMETA:load-control-buffer-for-playback-after-rebuffer-ms=30000
 http://tpjgkqnu.vexiumis.top/iptv/ZFMBTT94BTSVQMFVDASEV6XS/31593/index.m3u8
 
-#EXTINF:-1 tvg-id="NovaSport4.cz@HD" tvg-logo="https://imgur.com/R14S6El.png" group-title="Sports",Nova Sport 4
+#EXTINF:-1 tvg-id="NovaSport3.cz@HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/tcj7gr1649341445.png" group-title="Sports",Nova Sport 3
+#EXTYTVMETA:channel-path=/5175-nova-sport-3-cz-tv-schedule
+#EXTYTVMETA:load-control-min-buffer-ms=44000
+#EXTYTVMETA:load-control-max-buffer-ms=88000
+#EXTYTVMETA:load-control-buffer-for-playback-ms=11000
+#EXTYTVMETA:load-control-buffer-for-playback-after-rebuffer-ms=22000
+http://tpjgkqnu.vexiumis.top/iptv/ZFMBTT94BTSVQMFVDASEV6XS/31570/index.m3u8
+
+#EXTINF:-1 tvg-id="NovaSport4.cz@HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/59o8o81649341463.png" group-title="Sports",Nova Sport 4
 #EXTYTVMETA:channel-path=/5176-nova-sport-4-cz-tv-schedule
 #EXTYTVMETA:load-control-min-buffer-ms=48000
 #EXTYTVMETA:load-control-max-buffer-ms=96000
