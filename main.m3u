@@ -254,7 +254,7 @@ http://kstv.us:8080/live/jimmyrhale/JE1974aa$$/47869.m3u8
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/47866
 
 #EXTINF:-1 tvg-id="Spiler1.hu@SD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/nnd0xi1649342265.png" group-title="Sports",Spiler 1
-#EXTYTVMETA:channel-path=/5180-spíler1-hu-tv-schedule
+#EXTYTVMETA:channel-path=/5180-sp%c3%adler1-hu-tv-schedule
 #EXTYTVMETA:load-control-min-buffer-ms=24000
 #EXTYTVMETA:load-control-max-buffer-ms=48000
 #EXTYTVMETA:load-control-buffer-for-playback-ms=9000
@@ -262,7 +262,7 @@ http://kstv.us:8080/jimmyrhale/JE1974aa$$/47866
 http://88.212.15.19/live/spiler1/index.m3u8
 
 #EXTINF:-1 tvg-id="Spiler2.hu@SD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/foupei1649342285.png" group-title="Sports",Spiler 2
-#EXTYTVMETA:channel-path=/5181-spíler2-hu-tv-schedule
+#EXTYTVMETA:channel-path=/5181-sp%c3%adler2-hu-tv-schedule
 #EXTYTVMETA:load-control-min-buffer-ms=18000
 #EXTYTVMETA:load-control-max-buffer-ms=60000
 #EXTYTVMETA:load-control-buffer-for-playback-ms=6000
@@ -329,7 +329,7 @@ http://kstv.us:8080/jimmyrhale/JE1974aa$$/47853
 #EXTYTVMETA:load-control-buffer-for-playback-after-rebuffer-ms=8000
 http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1281083.m3u8
 
-#EXTINF:-1 tvg-id="TSN1.ca@HD" tvg-logo="" group-title="Sports",TSN 1
+#EXTINF:-1 tvg-id="TSN1.ca@HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/upsspx1433379567.png" group-title="Sports",TSN 1
 #EXTYTVMETA:channel-path=//5715-tsn-1-tv-schedule
 http://85.237.89.160:9590/usa-s/TSN-HD-1/index.m3u8
 
