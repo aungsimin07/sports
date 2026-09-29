@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ArenaSport1Premium.rs@SD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/wmvrmi1643205486.png" group-title="Sports",Arena Sport 1 Premium (RS)
+#EXTINF:-1 tvg-id="ArenaSport1Premium.rs@SD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/wmvrmi1643205486.png" group-title="Sports",Arena Sport 1 Premium
 #EXTYTVMETA:channel-path=/2377-arena-sport-1-premium-rs-tv-schedule
 #EXTYTVMETA:load-control-min-buffer-ms=40000
 #EXTYTVMETA:load-control-max-buffer-ms=80000
@@ -7,7 +7,7 @@
 #EXTYTVMETA:load-control-buffer-for-playback-after-rebuffer-ms=20000
 http://tpjgkqnu.vexiumis.top/iptv/ZFMBTT94BTSVQMFVDASEV6XS/31599/index.m3u8
 
-#EXTINF:-1 tvg-id="ArenaSport2Premium.rs@SD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/l4y8gt1643205498.png" group-title="Sports",Arena Sport 2 Premium (RS)
+#EXTINF:-1 tvg-id="ArenaSport2Premium.rs@SD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/l4y8gt1643205498.png" group-title="Sports",Arena Sport 2 Premium
 #EXTYTVMETA:channel-path=/2378-arena-sport-2-premium-rs-tv-schedule
 #EXTYTVMETA:load-control-min-buffer-ms=40000
 #EXTYTVMETA:load-control-max-buffer-ms=90000
@@ -15,7 +15,7 @@ http://tpjgkqnu.vexiumis.top/iptv/ZFMBTT94BTSVQMFVDASEV6XS/31599/index.m3u8
 #EXTYTVMETA:load-control-buffer-for-playback-after-rebuffer-ms=30000
 http://tpjgkqnu.vexiumis.top/iptv/ZFMBTT94BTSVQMFVDASEV6XS/31600/index.m3u8
 
-#EXTINF:-1 tvg-id="ArenaSport3Premium.rs@SD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/gtlulj1643205508.png" group-title="Sports",Arena Sport 3 Premium (RS)
+#EXTINF:-1 tvg-id="ArenaSport3Premium.rs@SD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/gtlulj1643205508.png" group-title="Sports",Arena Sport 3 Premium
 #EXTYTVMETA:channel-path=/2379-arena-sport-3-premium-rs-tv-schedule
 #EXTYTVMETA:load-control-min-buffer-ms=40000
 #EXTYTVMETA:load-control-max-buffer-ms=80000
@@ -23,7 +23,7 @@ http://tpjgkqnu.vexiumis.top/iptv/ZFMBTT94BTSVQMFVDASEV6XS/31600/index.m3u8
 #EXTYTVMETA:load-control-buffer-for-playback-after-rebuffer-ms=20000
 http://tpjgkqnu.vexiumis.top/iptv/ZFMBTT94BTSVQMFVDASEV6XS/31601/index.m3u8
 
-#EXTINF:-1 tvg-id="ArenaSport1.sk@HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/aq5ccz1649341842.png" group-title="Sports",Arena Sport 1 (SK)
+#EXTINF:-1 tvg-id="ArenaSport1.sk@HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/aq5ccz1649341842.png" group-title="Sports",Arena Sport 1
 #EXTYTVMETA:channel-path=/5178-arena-sport-1-sk-tv-schedule
 #EXTYTVMETA:load-control-min-buffer-ms=24000
 #EXTYTVMETA:load-control-max-buffer-ms=48000
@@ -31,7 +31,7 @@ http://tpjgkqnu.vexiumis.top/iptv/ZFMBTT94BTSVQMFVDASEV6XS/31601/index.m3u8
 #EXTYTVMETA:load-control-buffer-for-playback-after-rebuffer-ms=18000
 http://88.212.15.50/live/test_arenasport/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ArenaSport2.sk@HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/f10lfv1649341865.png" group-title="Sports",Arena Sport 2 (SK)
+#EXTINF:-1 tvg-id="ArenaSport2.sk@HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/f10lfv1649341865.png" group-title="Sports",Arena Sport 2
 #EXTYTVMETA:channel-path=/5179-arena-sport-2-sk-tv-schedule
 #EXTYTVMETA:load-control-min-buffer-ms=24000
 #EXTYTVMETA:load-control-max-buffer-ms=48000
@@ -39,7 +39,7 @@ http://88.212.15.50/live/test_arenasport/playlist.m3u8
 #EXTYTVMETA:load-control-buffer-for-playback-after-rebuffer-ms=18000
 http://88.212.15.50/live/test_arenasport_dva/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Belarus5.by@SD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/iq25nh1627494674.png" group-title="Sports",Belarus-5
+#EXTINF:-1 tvg-id="Belarus5.by@SD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/iq25nh1627494674.png" group-title="Sports",Belarus 5
 #EXTYTVMETA:channel-path=/1648-belarus-5-tv-schedule
 #EXTYTVMETA:load-control-min-buffer-ms=30000
 #EXTYTVMETA:load-control-max-buffer-ms=60000
@@ -47,7 +47,7 @@ http://88.212.15.50/live/test_arenasport_dva/playlist.m3u8
 #EXTYTVMETA:load-control-buffer-for-playback-after-rebuffer-ms=20000
 http://stream.mcquack.net/33/index.m3u8
 
-#EXTINF:-1 tvg-id="Belarus5.by@SD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/iq25nh1627494674.png" group-title="Sports",Belarus-5
+#EXTINF:-1 tvg-id="Belarus5.by@SD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/iq25nh1627494674.png" group-title="Sports",Belarus 5 Alt
 #EXTYTVMETA:channel-path=/1648-belarus-5-tv-schedule
 #EXTYTVMETA:load-control-min-buffer-ms=30000
 #EXTYTVMETA:load-control-max-buffer-ms=60000
@@ -143,7 +143,7 @@ http://tpjgkqnu.vexiumis.top/iptv/ZFMBTT94BTSVQMFVDASEV6XS/31587/index.m3u8
 #EXTYTVMETA:load-control-buffer-for-playback-after-rebuffer-ms=30000
 http://tpjgkqnu.vexiumis.top/iptv/ZFMBTT94BTSVQMFVDASEV6XS/2523/index.m3u8
 
-#EXTINF:-1 tvg-id="M4Sport.hu@SD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/wiw4ze1590153070.png" group-title="Sports",M4 Sport HU
+#EXTINF:-1 tvg-id="M4Sport.hu@SD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/wiw4ze1590153070.png" group-title="Sports",M4 Sport
 #EXTYTVMETA:channel-path=/4031-m4-sport-hu-tv-schedule
 #EXTYTVMETA:load-control-min-buffer-ms=40000
 #EXTYTVMETA:load-control-max-buffer-ms=90000
@@ -192,7 +192,7 @@ http://kstv.us:8080/live/jimmyrhale/JE1974aa$$/47858.m3u8
 #EXTYTVMETA:is-server-dead=true
 http://kstv.us:8080/live/jimmyrhale/JE1974aa$$/47859.m3u8
 
-#EXTINF:-1 tvg-id="RTVSport.sk@HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/0t17181656960552.png" group-title="Sports",RTV:Šport
+#EXTINF:-1 tvg-id="RTVSport.sk@HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/0t17181656960552.png" group-title="Sports",RTV Sport
 #EXTYTVMETA:channel-path=/5159-rtv%3aŠport-tv-schedule
 #EXTYTVMETA:load-control-min-buffer-ms=24000
 #EXTYTVMETA:load-control-max-buffer-ms=48000
@@ -264,6 +264,26 @@ http://88.212.15.19/live/spiler2/index.m3u8
 #EXTYTVMETA:load-control-buffer-for-playback-ms=10000
 #EXTYTVMETA:load-control-buffer-for-playback-after-rebuffer-ms=20000
 http://tpjgkqnu.vexiumis.top/iptv/ZFMBTT94BTSVQMFVDASEV6XS/31590/index.m3u8
+
+#EXTINF:-1 tvg-id="SuperSport1.al@SD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/cwxvau1592206077.png" group-title="Sports",Super Sport 1
+#EXTYTVMETA:channel-path=/13-super-sport-1-hd-%28albania%29-tv-schedule
+http://line01.serveuser.com:80/QIWQ3GPOEZ/GCOULCY30Q/1562258
+
+#EXTINF:-1 tvg-id="SuperSport2.al@SD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/60zt211592206089.png" group-title="Sports",Super Sport 2
+#EXTYTVMETA:channel-path=/14-super-sport-2-hd-%28albania%29-tv-schedule
+http://line01.serveuser.com:80/QIWQ3GPOEZ/GCOULCY30Q/1562257
+
+#EXTINF:-1 tvg-id="SuperSport3.al@SD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/d6ke6k1592206106.png" group-title="Sports",Super Sport 3
+#EXTYTVMETA:channel-path=/15-super-sport-3-hd-%28albania%29-tv-schedule
+http://line01.serveuser.com:80/QIWQ3GPOEZ/GCOULCY30Q/1562256
+
+#EXTINF:-1 tvg-id="SuperSport4.al@SD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/wazzeh1592206123.png" group-title="Sports",Super Sport 4
+#EXTYTVMETA:channel-path=/16-super-sport-4-hd-%28albania%29-tv-schedule
+http://line01.serveuser.com:80/QIWQ3GPOEZ/GCOULCY30Q/1562255
+
+#EXTINF:-1 tvg-id="SuperSport5.al@SD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ifubb71592206446.png" group-title="Sports",Super Sport 5
+#EXTYTVMETA:channel-path=/18-super-sport-5-%28albania%29-tv-schedule
+http://line01.serveuser.com:80/QIWQ3GPOEZ/GCOULCY30Q/1562254
 
 #EXTINF:-1 tvg-id="TNTSports1.uk@HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png" group-title="Sports",TNT Sports 1
 #EXTYTVMETA:channel-path=/6518-tnt-sports-1-tv-schedule
