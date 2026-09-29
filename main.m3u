@@ -55,6 +55,10 @@ http://stream.mcquack.net/33/index.m3u8
 #EXTYTVMETA:load-control-buffer-for-playback-after-rebuffer-ms=20000
 https://streaming.thestream.cyou/live/7001.m3u8
 
+#EXTINF:-1 tvg-id="CBCSport.az@SD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/g6uzx21616618908.png" group-title="Sports",CBC Sport
+#EXTYTVMETA:channel-path=/4563-cbc-sport-aze-tv-schedule
+https://andro.2385437.xyz/checklist/androstreamlivecbcs.m3u8
+
 #EXTINF:-1 tvg-id="CTSport.cz@SD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/emke3z1616616067.png" group-title="Sports",CT Sport
 #EXTYTVMETA:channel-path=/2907-ct-sport-tv-schedule
 #EXTYTVMETA:load-control-min-buffer-ms=24000
@@ -215,7 +219,15 @@ http://88.212.15.50/live/test_sport_2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SkySportsPremierLeagueROI.uk@HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/b8avz51719570023.png" group-title="Sports",Sky Sports Premier League
 #EXTYTVMETA:channel-path=/8647-sky-sports-premier-league-tv-schedule
+http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/9334/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySportsPremierLeagueROI.uk@HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/b8avz51719570023.png" group-title="Sports",Sky Sports Premier League
+#EXTYTVMETA:channel-path=/8647-sky-sports-premier-league-tv-schedule
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/47871
+
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk@HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ub8szd1780683863.png" group-title="Sports",Sky Sports Main Event
+#EXTYTVMETA:channel-path=/8646-sky-sports-main-event-tv-schedule
+http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/9308/index.m3u8
 
 #EXTINF:-1 tvg-id="SkySportsMainEvent.uk@HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ub8szd1780683863.png" group-title="Sports",Sky Sports Main Event
 #EXTYTVMETA:channel-path=/8646-sky-sports-main-event-tv-schedule
@@ -271,18 +283,22 @@ http://line01.serveuser.com:80/QIWQ3GPOEZ/GCOULCY30Q/1562258
 
 #EXTINF:-1 tvg-id="SuperSport2.al@SD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/60zt211592206089.png" group-title="Sports",Super Sport 2
 #EXTYTVMETA:channel-path=/14-super-sport-2-hd-%28albania%29-tv-schedule
+#EXTYTVMETA:is-server-dead=true
 http://line01.serveuser.com:80/QIWQ3GPOEZ/GCOULCY30Q/1562257
 
 #EXTINF:-1 tvg-id="SuperSport3.al@SD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/d6ke6k1592206106.png" group-title="Sports",Super Sport 3
 #EXTYTVMETA:channel-path=/15-super-sport-3-hd-%28albania%29-tv-schedule
+#EXTYTVMETA:is-server-dead=true
 http://line01.serveuser.com:80/QIWQ3GPOEZ/GCOULCY30Q/1562256
 
 #EXTINF:-1 tvg-id="SuperSport4.al@SD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/wazzeh1592206123.png" group-title="Sports",Super Sport 4
 #EXTYTVMETA:channel-path=/16-super-sport-4-hd-%28albania%29-tv-schedule
+#EXTYTVMETA:is-server-dead=true
 http://line01.serveuser.com:80/QIWQ3GPOEZ/GCOULCY30Q/1562255
 
 #EXTINF:-1 tvg-id="SuperSport5.al@SD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ifubb71592206446.png" group-title="Sports",Super Sport 5
 #EXTYTVMETA:channel-path=/18-super-sport-5-%28albania%29-tv-schedule
+#EXTYTVMETA:is-server-dead=true
 http://line01.serveuser.com:80/QIWQ3GPOEZ/GCOULCY30Q/1562254
 
 #EXTINF:-1 tvg-id="TNTSports1.uk@HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png" group-title="Sports",TNT Sports 1
@@ -312,6 +328,10 @@ http://kstv.us:8080/jimmyrhale/JE1974aa$$/47853
 #EXTYTVMETA:load-control-buffer-for-playback-ms=8000
 #EXTYTVMETA:load-control-buffer-for-playback-after-rebuffer-ms=8000
 http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1281083.m3u8
+
+#EXTINF:-1 tvg-id="TSN1.ca@HD" tvg-logo="" group-title="Sports",TSN 1
+#EXTYTVMETA:channel-path=//5715-tsn-1-tv-schedule
+http://85.237.89.160:9590/usa-s/TSN-HD-1/index.m3u8
 
 #EXTINF:-1 tvg-id="TyCSports.ar@HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/zmpjy41624030194.png" group-title="Sports",TyC Sports
 #EXTYTVMETA:channel-path=/5001-tyc-sports-arg-tv-schedule
