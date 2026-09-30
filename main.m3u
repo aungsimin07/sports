@@ -153,6 +153,17 @@ http://tpjgkqnu.vexiumis.top/iptv/ZFMBTT94BTSVQMFVDASEV6XS/31587/index.m3u8
 #EXTYTVMETA:load-control-buffer-for-playback-after-rebuffer-ms=30000
 http://tpjgkqnu.vexiumis.top/iptv/ZFMBTT94BTSVQMFVDASEV6XS/2523/index.m3u8
 
+#EXTINF:-1 tvg-id="ESPN2.us@HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/e0jjaa1660762501.png" group-title="Sports",ESPN 2 US
+#EXTYTVMETA:channel-path=/5036-espn-2-us-tv-schedule
+#EXTYTVMETA:quality-label=720P
+http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPNU.us@HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qwxxut1433431075.png" group-title="Sports",ESPNU
+#EXTYTVMETA:channel-path=/5034-espnu-tv-schedule
+#EXTYTVMETA:quality-label=720P
+#EXTYTVMETA:is-server-dead=true
+http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
+
 #EXTINF:-1 tvg-id="FoxSports1.us@HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/FOX_Sports_1_US.png" group-title="Sports",Fox Sports 1
 #EXTYTVMETA:channel-path=/5037-fox-sports-1-us-tv-schedule
 #EXTYTVMETA:quality-label=720P
@@ -341,8 +352,28 @@ http://kstv.us:8080/jimmyrhale/JE1974aa$$/47853
 http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1281083.m3u8
 
 #EXTINF:-1 tvg-id="TSN1.ca@HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/upsspx1433379567.png" group-title="Sports",TSN 1
-#EXTYTVMETA:channel-path=//5715-tsn-1-tv-schedule
+#EXTYTVMETA:channel-path=/5715-tsn-1-tv-schedule
 http://85.237.89.160:9590/usa-s/TSN-HD-1/index.m3u8
+
+#EXTINF:-1 tvg-id="TSN1.ca@HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/upsspx1433379567.png" group-title="Sports",TSN 1
+#EXTYTVMETA:channel-path=/5715-tsn-1-tv-schedule
+http://kstv.us:8080/live/Kh2fHxR0c8/3333726709/15929.ts
+
+#EXTINF:-1 tvg-id="TSN2.ca@HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sutruq1433379787.png" group-title="Sports",TSN 2
+#EXTYTVMETA:channel-path=/5809-tsn-2-tv-schedule
+http://kstv.us:8080/live/Kh2fHxR0c8/3333726709/15928.ts
+
+#EXTINF:-1 tvg-id="TSN3.ca@HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ssxtux1433380256.png" group-title="Sports",TSN 3
+#EXTYTVMETA:channel-path=/5499-tsn-3-tv-schedule
+http://kstv.us:8080/live/Kh2fHxR0c8/3333726709/15927.ts
+
+#EXTINF:-1 tvg-id="TSN4.ca@HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/yrrvpq1433380019.png" group-title="Sports",TSN 4
+#EXTYTVMETA:channel-path=/5519-tsn-4-tv-schedule
+http://kstv.us:8080/live/Kh2fHxR0c8/3333726709/15926.ts
+
+#EXTINF:-1 tvg-id="TSN5.ca@HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sytpty1433380112.png" group-title="Sports",TSN 5
+#EXTYTVMETA:channel-path=/5653-tsn-5-tv-schedule
+http://kstv.us:8080/live/Kh2fHxR0c8/3333726709/15925.ts
 
 #EXTINF:-1 tvg-id="TyCSports.ar@HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/zmpjy41624030194.png" group-title="Sports",TyC Sports
 #EXTYTVMETA:channel-path=/5001-tyc-sports-arg-tv-schedule
