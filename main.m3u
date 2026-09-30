@@ -42,6 +42,7 @@ http://88.212.15.50/live/test_arenasport_dva/playlist.m3u8
 #EXTINF:-1 tvg-id="beINSports1.qa@SD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5exn7j1631279352.png" group-title="Sports",beIN Sports 1 Q
 #EXTYTVMETA:channel-path=/8515-bein-sports-1-qatar-tv-schedule
 #EXTYTVMETA:quality-label=720P
+#EXTYTVMETA:is-server-dead=true
 https://cp11.adabmedia.com/hls2/bein1.m3u8
 
 #EXTINF:-1 tvg-id="Belarus5.by@SD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/iq25nh1627494674.png" group-title="Sports",Belarus 5
@@ -66,6 +67,7 @@ https://andro.2385437.xyz/checklist/androstreamlivecbcs.m3u8
 
 #EXTINF:-1 tvg-id="CBSSportsNetworkUSA.us@SD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/77gqjl1624103918.png" group-title="Sports",CBS Sports Network USA
 #EXTYTVMETA:channel-path=/5990-cbs-sports-network-usa-tv-schedule
+#EXTYTVMETA:quality-label=720P
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/15944
 
 #EXTINF:-1 tvg-id="CTSport.cz@SD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/emke3z1616616067.png" group-title="Sports",CT Sport
@@ -381,6 +383,7 @@ http://kstv.us:8080/live/Kh2fHxR0c8/3333726709/15925.ts
 
 #EXTINF:-1 tvg-id="TyCSports.ar@HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/zmpjy41624030194.png" group-title="Sports",TyC Sports
 #EXTYTVMETA:channel-path=/5001-tyc-sports-arg-tv-schedule
+#EXTYTVMETA:quality-label=720P
 http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1090606&extension=ts&play_token=UU20nTSWow
 
 #EXTINF:-1 tvg-id="USANetwork.us@HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/yswxwr1433432126.png" group-title="Sports",USA Network
