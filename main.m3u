@@ -39,6 +39,10 @@ http://88.212.15.50/live/test_arenasport/playlist.m3u8
 #EXTYTVMETA:load-control-buffer-for-playback-after-rebuffer-ms=18000
 http://88.212.15.50/live/test_arenasport_dva/playlist.m3u8
 
+#EXTINF:-1 tvg-id="beINSports1.qa@SD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5exn7j1631279352.png" group-title="Sports",beIN Sports 1 Q
+#EXTYTVMETA:channel-path=/8515-bein-sports-1-qatar-tv-schedule
+https://cp11.adabmedia.com/hls2/bein1.m3u8
+
 #EXTINF:-1 tvg-id="Belarus5.by@SD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/iq25nh1627494674.png" group-title="Sports",Belarus 5
 #EXTYTVMETA:channel-path=/1648-belarus-5-tv-schedule
 #EXTYTVMETA:load-control-min-buffer-ms=30000
@@ -336,3 +340,11 @@ http://85.237.89.160:9590/usa-s/TSN-HD-1/index.m3u8
 #EXTINF:-1 tvg-id="TyCSports.ar@HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/zmpjy41624030194.png" group-title="Sports",TyC Sports
 #EXTYTVMETA:channel-path=/5001-tyc-sports-arg-tv-schedule
 http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1090606&extension=ts&play_token=UU20nTSWow
+
+#EXTINF:-1 tvg-id="VSportFootball.fi@HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/mm7fap1641504563.png" group-title="Sports", V Sport Football
+#EXTYTVMETA:channel-path=/8115-v-sport-football-tv-schedule
+http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/12076/index.m3u8
+
+#EXTINF:-1 tvg-id="VSportPremium.fi@HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/de69jw1641504870.png" group-title="Sports", V Sport Premium
+#EXTYTVMETA:channel-path=/8099-v-sport-premium-tv-schedule
+http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/12079/index.m3u8
