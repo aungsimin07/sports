@@ -41,6 +41,7 @@ http://88.212.15.50/live/test_arenasport_dva/playlist.m3u8
 
 #EXTINF:-1 tvg-id="beINSports1.qa@SD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5exn7j1631279352.png" group-title="Sports",beIN Sports 1 Q
 #EXTYTVMETA:channel-path=/8515-bein-sports-1-qatar-tv-schedule
+#EXTYTVMETA:quality-label=720P
 https://cp11.adabmedia.com/hls2/bein1.m3u8
 
 #EXTINF:-1 tvg-id="Belarus5.by@SD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/iq25nh1627494674.png" group-title="Sports",Belarus 5
@@ -65,6 +66,7 @@ https://andro.2385437.xyz/checklist/androstreamlivecbcs.m3u8
 
 #EXTINF:-1 tvg-id="CTSport.cz@SD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/emke3z1616616067.png" group-title="Sports",CT Sport
 #EXTYTVMETA:channel-path=/2907-ct-sport-tv-schedule
+#EXTYTVMETA:quality-label=720P
 #EXTYTVMETA:load-control-min-buffer-ms=24000
 #EXTYTVMETA:load-control-max-buffer-ms=48000
 #EXTYTVMETA:load-control-buffer-for-playback-ms=9000
