@@ -153,6 +153,11 @@ http://tpjgkqnu.vexiumis.top/iptv/ZFMBTT94BTSVQMFVDASEV6XS/31587/index.m3u8
 #EXTYTVMETA:load-control-buffer-for-playback-after-rebuffer-ms=30000
 http://tpjgkqnu.vexiumis.top/iptv/ZFMBTT94BTSVQMFVDASEV6XS/2523/index.m3u8
 
+#EXTINF:-1 tvg-id="FoxSports1.us@HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/FOX_Sports_1_US.png" group-title="Sports",Fox Sports 1
+#EXTYTVMETA:channel-path=/5037-fox-sports-1-us-tv-schedule
+#EXTYTVMETA:quality-label=720P
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+
 #EXTINF:-1 tvg-id="M4Sport.hu@SD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/wiw4ze1590153070.png" group-title="Sports",M4 Sport
 #EXTYTVMETA:channel-path=/4031-m4-sport-hu-tv-schedule
 #EXTYTVMETA:load-control-min-buffer-ms=40000
