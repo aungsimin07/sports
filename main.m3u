@@ -64,6 +64,10 @@ https://streaming.thestream.cyou/live/7001.m3u8
 #EXTYTVMETA:channel-path=/4563-cbc-sport-aze-tv-schedule
 https://andro.2385437.xyz/checklist/androstreamlivecbcs.m3u8
 
+#EXTINF:-1 tvg-id="CBSSportsNetworkUSA.us@SD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/77gqjl1624103918.png" group-title="Sports",CBS Sports Network USA
+#EXTYTVMETA:channel-path=/5990-cbs-sports-network-usa-tv-schedule
+http://kstv.us:8080/jimmyrhale/JE1974aa$$/15944
+
 #EXTINF:-1 tvg-id="CTSport.cz@SD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/emke3z1616616067.png" group-title="Sports",CT Sport
 #EXTYTVMETA:channel-path=/2907-ct-sport-tv-schedule
 #EXTYTVMETA:quality-label=720P
@@ -378,6 +382,10 @@ http://kstv.us:8080/live/Kh2fHxR0c8/3333726709/15925.ts
 #EXTINF:-1 tvg-id="TyCSports.ar@HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/zmpjy41624030194.png" group-title="Sports",TyC Sports
 #EXTYTVMETA:channel-path=/5001-tyc-sports-arg-tv-schedule
 http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1090606&extension=ts&play_token=UU20nTSWow
+
+#EXTINF:-1 tvg-id="USANetwork.us@HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/yswxwr1433432126.png" group-title="Sports",USA Network
+#EXTYTVMETA:channel-path=/5938-usa-network-tv-schedule
+http://kstv.us:8080/jimmyrhale/JE1974aa$$/15905
 
 #EXTINF:-1 tvg-id="VSportFootball.fi@HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/mm7fap1641504563.png" group-title="Sports", V Sport Football
 #EXTYTVMETA:channel-path=/8115-v-sport-football-tv-schedule
